@@ -1,3 +1,26 @@
+$c_start奥运赛$c_end
+Assp-1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8#http://iptv.tvmalaysia.cc:80/penang172/penang172/6708#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247415#mitv://fccseuro.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts#mitv://fccsovh.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts#mitv://fccseuro.pvbox.live:18912/5e649e1600037f1b6c99ad9f051b6e7c.ts
+Assp-2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8#http://iptv.tvmalaysia.cc:80/penang172/penang172/6710#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247417#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee.ts#mitv://fccsovh.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee.ts#mitv://fccseuro.pvbox.live:18912/5e649e17000d46486c99b407332e53c8.ts#mitv://fccseuro.pvbox.live:18912/5cbd60ab000778adefc5b894166228f6.ts
+Assp-3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8#http://iptv.tvmalaysia.cc:80/penang172/penang172/6711#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247418#mitv://fccseuro.pvbox.live:18912/5d6504660004a05b66a960dd10e67e6c.ts#mitv://fccsovh.pvbox.live:18912/5d6504660004a05b66a960dd10e67e6c.ts#mitv://fccseuro.pvbox.live:18912/5e649e1900052aca6c99b9c40b5477a2.ts
+Assp-4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8#http://iptv.tvmalaysia.cc:80/penang172/penang172/6712#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247419#mitv://fccseuro.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75.ts#mitv://fccseuro.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729.ts#mitv://fccseuro.pvbox.live:18912/5cbd60b30006feb7da90c0f675f83dba.ts#mitv://fccsovh.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75.ts#http://159.192.73.198:1072/astro4
+CCTV-5体育,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8$蓝光4M#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8$蓝光8M
+CCTV-5+体育赛事,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8$蓝光#http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8$蓝光8M
+咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+咪咕视频4K,http://117.136.154.98/PLTV/88888888/224/3221225724/index.m3u8
+爱尔达体育-1,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb#tvbus://8kv3HHJ95f9f8Wm9DYtv2bXXztieEEhXabQH2q7uVqbsG6Mg4A
+爱尔达体育-2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8#tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb#tvbus://7EsoS5HVtrc5JCnFj9Rg2GvZh4Ghi31LcYBm6v8z1gzzsb1nfM
+爱尔达体育-3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8#tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm#tvbus://8kLevnKMiQQAQkf3AUtTcxusFx7ucoMhHvqe5NLwSn561zvUvH
+J SPORTS 1,tvbus://5P19YaVCrBTdG3hSy3AuRC6dzuRFWCEvP9UHtjdCxzvQqyiQ5pDYtbMS6NUca
+J SPORTS 2,tvbus://5pQD24S4466A139yM6y3fPrBkPdV7chyhEJ8y4bXbX2Qv9JEGHAdMHRCx3CDE
+J SPORTS 3,tvbus://6dADDkTGu2oiwREWcP93w5nGscSVfZjaXEBA5dAC92XEevHjPSqYrY3XL6ST4
+J SPORTS 4,tvbus://5xJS5QV17qfubUQRDmcme8wzU8EAigZtZeFsDgxcMKwxDVSztergMkL7PwGxz
+NHKBSプレミアム,tvbus://66cQd5Edf9cCLKRyyHMq1fvPqisAPmqVPNAL9Qp5wF5M4GQBr5QwRdyQ2Di4a
+NHKBS1,tvbus://5qEP7yrScQarRpVnisZHLy2BGPG3jSTxZcHsoSnUnhVYKq5xUMpJj5v3tqWms
+sbs sports,p2p://fccsovh.pvbox.live:18912/5f9f841a00028018330460eb44ad1075#p2p://fccseuro.pvbox.live:18912/5f9f841a00028018330460eb44ad1075
+Euro Sport 1,p2p://fccseuro.pvbox.live:18912/5bee54900005456e19e1d999277c5c55#p2p://fccsovh.pvbox.live:18912/5bee54900005456e19e1d999277c5c55
+RCTI,p2p://fccsovh.pvbox.live:18912/5d72049f0005545787c787f78689501c#p2p://fccseuro.pvbox.live:18912/5d72049f0005545787c787f78689501c
+TVRI Sports,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8#p2p://fccsovh.pvbox.live:18912/5f10049a00080828027adf0a68d41227#p2p://fccseuro.pvbox.live:18912/5f10049a00080828027adf0a68d41227
+
 $c_start体育/Sports$c_end
 Assp-1,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8#http://iptv.tvmalaysia.cc:80/penang172/penang172/6708#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247415#mitv://fccseuro.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts#mitv://fccsovh.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts#mitv://fccseuro.pvbox.live:18912/5e649e1600037f1b6c99ad9f051b6e7c.ts
 Assp-2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8#http://iptv.tvmalaysia.cc:80/penang172/penang172/6710#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247417#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee.ts#mitv://fccsovh.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee.ts#mitv://fccseuro.pvbox.live:18912/5e649e17000d46486c99b407332e53c8.ts#mitv://fccseuro.pvbox.live:18912/5cbd60ab000778adefc5b894166228f6.ts
