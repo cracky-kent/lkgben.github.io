@@ -1,4 +1,14 @@
 $c_start奥运赛$c_end
+Olympic CH1,https://link.zozotv.xyz/Freemium1/unlimited99/318
+Olympic CH2,https://link.zozotv.xyz/Freemium1/unlimited99/319
+Olympic CH3,https://link.zozotv.xyz/Freemium1/unlimited99/320
+Olympic CH4,https://link.zozotv.xyz/Freemium1/unlimited99/321
+Olympic CH5,https://link.zozotv.xyz/Freemium1/unlimited99/322
+Olympic CH6,https://link.zozotv.xyz/Freemium1/unlimited99/323
+Olympic CH7,https://link.zozotv.xyz/Freemium1/unlimited99/324
+Olympic CH8,https://link.zozotv.xyz/Freemium1/unlimited99/325
+Olympic CH9,https://link.zozotv.xyz/Freemium1/unlimited99/326
+Olympic CH10,https://link.zozotv.xyz/Freemium1/unlimited99/327
 BeinSport-1,http://baladi.hopto.org:25461/khan/indi@o/818
 BeinSport-1 Premium,http://baladi.hopto.org:25461/khan/indi@o/816
 BeinSport-2,http://baladi.hopto.org:25461/khan/indi@o/817
@@ -649,8 +659,7 @@ Doraemon,http://d1--cn-gotcha105.bilivideo.com:80/live-bvc/905884/live_4095379_2
 山东少儿,http://livealone302.iqilu.com/iqilu/sepd.m3u8
 金鹰卡通,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-"我們這一家,https://www.youtube.com/playlist?list=PLDfDiflGwSuW6AAyyaZXiLHBRsF6b_sqT|Referer=https://www.youtube.com
-"
+我們這一家,https://www.youtube.com/playlist?list=PLDfDiflGwSuW6AAyyaZXiLHBRsF6b_sqT|Referer=https://www.youtube.com
 Japanese Greetings,https://www.youtube.com/embed/MblKNliC6uc?start=0&autoplay=1&loop=1&playlist=MblKNliC6uc&t|Referer=https://www.youtube.com
 Special greetings in Japanese,https://www.youtube.com/embed/c3Hku4HABx0?start=0&autoplay=1&loop=1&playlist=c3Hku4HABx0|Referer=https://www.youtube.com
 Hello in different languages,https://www.youtube.com/embed/5tg0j2o0Gg8?start=0&autoplay=1&loop=1&playlist=5tg0j2o0Gg8|Referer=https://www.youtube.com
