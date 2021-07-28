@@ -1,14 +1,4 @@
 $c_start奥运赛$c_end
-Olympic CH1,https://link.zozotv.xyz:443/Freemium1/unlimited99/318
-Olympic CH2,https://link.zozotv.xyz:443/Freemium1/unlimited99/319
-Olympic CH3,https://link.zozotv.xyz:443/Freemium1/unlimited99/320
-Olympic CH4,https://link.zozotv.xyz:443/Freemium1/unlimited99/321
-Olympic CH5,https://link.zozotv.xyz:443/Freemium1/unlimited99/322
-Olympic CH6,https://link.zozotv.xyz:443/Freemium1/unlimited99/323
-Olympic CH7,https://link.zozotv.xyz:443/Freemium1/unlimited99/324
-Olympic CH8,https://link.zozotv.xyz:443/Freemium1/unlimited99/325
-Olympic CH9,https://link.zozotv.xyz:443/Freemium1/unlimited99/326
-Olympic CH10,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
 BeinSport-1,http://baladi.hopto.org:25461/khan/indi@o/818
 BeinSport-1 Premium,http://baladi.hopto.org:25461/khan/indi@o/816
 BeinSport-2,http://baladi.hopto.org:25461/khan/indi@o/817
