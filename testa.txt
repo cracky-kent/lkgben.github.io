@@ -1,28 +1,25 @@
 $c_start奥运赛$c_end
-Olympic CH1,https://link.zozotv.xyz/Freemium1/unlimited99/318
-Olympic CH2,https://link.zozotv.xyz/Freemium1/unlimited99/319
-Olympic CH3,https://link.zozotv.xyz/Freemium1/unlimited99/320
-Olympic CH4,https://link.zozotv.xyz/Freemium1/unlimited99/321
-Olympic CH5,https://link.zozotv.xyz/Freemium1/unlimited99/322
-Olympic CH6,https://link.zozotv.xyz/Freemium1/unlimited99/323
-Olympic CH7,https://link.zozotv.xyz/Freemium1/unlimited99/324
-Olympic CH8,https://link.zozotv.xyz/Freemium1/unlimited99/325
-Olympic CH9,https://link.zozotv.xyz/Freemium1/unlimited99/326
-Olympic CH10,https://link.zozotv.xyz/Freemium1/unlimited99/327
-BeinSport-1,http://baladi.hopto.org:25461/khan/indi@o/818
-BeinSport-1 Premium,http://baladi.hopto.org:25461/khan/indi@o/816
-BeinSport-2,http://baladi.hopto.org:25461/khan/indi@o/817
-BeinSport-2 extra,http://baladi.hopto.org:25461/khan/indi@o/812
-BeinSport-3 Premium,http://baladi.hopto.org:25461/khan/indi@o/819
-BeinSport-4,http://baladi.hopto.org:25461/khan/indi@o/822
-BeinSport-5,http://baladi.hopto.org:25461/khan/indi@o/825
-BeinSport-6,http://baladi.hopto.org:25461/khan/indi@o/808
-BeinSport-7,http://baladi.hopto.org:25461/khan/indi@o/809
-BeinSport-8,http://baladi.hopto.org:25461/khan/indi@o/810
-BeinSport-9,http://baladi.hopto.org:25461/khan/indi@o/811
-BeinSport-10,http://baladi.hopto.org:25461/khan/indi@o/825
-BeinSport-11,http://baladi.hopto.org:25461/khan/indi@o/813
-BeinSport-12,http://baladi.hopto.org:25461/khan/indi@o/814
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星體育+重,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
+CCTV奧運,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+CCTV-5體育,http://livetv.dnsfor.me:80/channel.17.m3u8
+CCTV5,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+11,http://111.20.105.60:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+12,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+15,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV5+16,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+17,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV5+18,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+19,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8#P2p://54.39.118.88:18912/5b140a990002d1a89cac9e13b5b361a2.ts#http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://cdn.hkdtmb.com/hls/77/index.m3u8
 Now直播新聞台,http://livetv.dnsfor.me:80/channel.3.m3u8
 ViuTV 6,http://93.190.139.36:8278/streams/d/9ae6d37d9a/playlist.m3u8#http://hls.globaliptv.ml/viu96.php#http://hls.globaliptv.ml/viu96.php#http://61.238.6.49:8000/bysid/96#P2p://54.39.118.88:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
@@ -43,10 +40,7 @@ TV Tokyo (JOTX-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
 Fuji (JODX-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa7hd/playlist.m3u8
 Tokyo MX (JOMX-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa8hd/playlist.m3u8
 TJB 대전방송(SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
-NHKBSプレミアム,tvbus://66cQd5Edf9cCLKRyyHMq1fvPqisAPmqVPNAL9Qp5wF5M4GQBr5QwRdyQ2Di4a
-NHKBS1,tvbus://5qEP7yrScQarRpVnisZHLy2BGPG3jSTxZcHsoSnUnhVYKq5xUMpJj5v3tqWms
 Korea MBC Live,https://true4u.com/live/
-SBS sports,p2p://fccsovh.pvbox.live:18912/5f9f841a00028018330460eb44ad1075#p2p://fccseuro.pvbox.live:18912/5f9f841a00028018330460eb44ad1075
 Euro Sport 1,p2p://fccseuro.pvbox.live:18912/5bee54900005456e19e1d999277c5c55#p2p://fccsovh.pvbox.live:18912/5bee54900005456e19e1d999277c5c55#http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 RCTI,p2p://fccsovh.pvbox.live:18912/5d72049f0005545787c787f78689501c#p2p://fccseuro.pvbox.live:18912/5d72049f0005545787c787f78689501c
 TVRI Sports,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8#p2p://fccsovh.pvbox.live:18912/5f10049a00080828027adf0a68d41227#p2p://fccseuro.pvbox.live:18912/5f10049a00080828027adf0a68d41227#tvbus://5nHtkB1y2ke44tsCPWCuSbCQNvVyq1bMeHGKQtcSSPCFqoZGGJ9XgERXcNSAc
