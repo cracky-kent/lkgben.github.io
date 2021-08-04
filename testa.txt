@@ -15,6 +15,11 @@ AIS13,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chu
 AIS14,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
 AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chunks.m3u8
 AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
+有線奧運601,https://api.leonardpark.dev/live/icable/601
+有線奧運602,https://api.leonardpark.dev/live/icable/602
+有線奧運603,https://api.leonardpark.dev/live/icable/603
+有線奧運604,https://api.leonardpark.dev/live/icable/604
+有線奧運605,https://api.leonardpark.dev/live/icable/605
 五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星體育+重,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
 CCTV奧運,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
