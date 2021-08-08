@@ -1,4 +1,4 @@
-港澳,#genre#
+$c-test港澳$c_end
 
 有線新聞,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo
 有線新聞,tvbus://89ka2EwsEPEhnFhvSE5J8QZE2LNzWQYJia8tHfzy5W3UUy8ZvP
@@ -135,7 +135,7 @@ WWE,tvbus://8QFpRehbtGF6gJXcsvAJBFvq5E35euN2we1iTfW4tb7MW2K6D7
 
 
 
-台灣,#genre#
+$c_start台灣$c_end
 
 TVBSᴴᴰ,tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z
 TVBS新聞,tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB
@@ -549,7 +549,7 @@ FOX_SPORTS_3,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNR
 台視新聞,tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
 
 
-新聞,#genre#
+$c_start新聞$c_end
 
 有線新聞,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo#tvbus://89ka2EwsEPEhnFhvSE5J8QZE2LNzWQYJia8tHfzy5W3UUy8ZvP
 無線新聞,tvbus://7rahZUSe5TxfziNDrkutwXq7M7JGeueXxchSQu1qzKdGdRAWRk#tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
@@ -681,7 +681,7 @@ Arirang,tvbus://6NpQ7fio1zfp8zHR9M65f1LoqwAVqPF2aNAYEM5ZC1ynk14TPsCYizTdJ7nHs
 
 
 
-電影,#genre#
+$c_start電影$c_end
 
 龍華電影,tvbus://6LwUVDeFb8Jsbakw6NkRVBFAA5KgeehuDN64LJKBiNRUVHAB7r42TWHiSTgsL#tvbus://8HrW7R2zbbCb4tY7pVXE6czSoXARUAfbzZB5fEE32tS8p22dD1
 美亞電影,tvbus://6fXbnEVt2xue4aYZga9ER8ftVvU1tycYH4S4rqjBgsmGSu6WrAFcD8cQUVgiG#tvbus://7j2FYQUmcYnQbj2ae2aSx1DooeYPvx1erYNYtU4Hmfe79JsHXo
@@ -900,7 +900,7 @@ cinemaone,tvbus://5XKWTJekSmK1HCRePprPjTBuDkAiypyf5F4TEM1JbMuvbpwMUkUHoeiMkCm2h
 
 
 
-电影,#genre#
+$c_start电影$c_end
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
@@ -944,7 +944,7 @@ CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 CHC家庭影院,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 
 
-斗鱼①,#genre#
+$c_start斗鱼$c_end
 
 斗鱼0,http://dyscdnali1.douyucdn.cn/live/310926rxaVCymr5Z.flv?uuid=
 斗鱼1,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
@@ -977,9 +977,6 @@ CHC家庭影院,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 埋堆堆11,http://121.12.115.156/tx.hls.huya.com/huyalive/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u87-A-0-1.m3u8
 
 
-
-斗鱼②,#genre#
-
 吃米滴虫,http://tyzb2021.chxjon.cn/iptv-cdn/公众号=太阳资讯/tyzb11.php?id=315457
 吃奶滴虫,http://tyzb2021.chxjon.cn/iptv-cdn/公众号=太阳资讯/tyzb11.php?id=263824
 经典港片1,http://tx2play1.douyucdn.cn/85894rmovieChow.xs#http://tyzb2021.chxjon.cn/iptv-cdn/公众号=太阳资讯/tyzb11.php?id=85894
@@ -1010,7 +1007,7 @@ CHC家庭影院,http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
 
 
 
-央视,#genre#
+$c_start央视$c_end
 
 CCTV1,tvbus://69Mb4nuPDqZ22UV9cSgDHee47LgNh4ZuyxJB3uKzpYx6sx3nbxarNwNGFWeZ7
 CCTV2,tvbus://6TgMRPM93iM23VTMwx8oQV3G6BrMPtyMj68LZz4VsX2FeDzgDJ6TwDXiPJnUr
@@ -1063,7 +1060,7 @@ CCTV17,tvbus://6AqNdcGeUHZnLLcVKdjiF39BxojeWB5DxRTfoBnujRHszsnhrMsBYvZdJec8W
 青海卫视,tvbus://6gJSqs3hK7TPvrmTvFHxxkmAoUdfFMUp8vxD3gnCfZwCf6HBBWFkexfnfmgKq
 
 
-地方,#genre#
+$c_start地方$c_end
 
 广东新闻,tvbus://6XANrXXSzbLAUBv9RHb3qQELuN3Am4PZJ5zr5czmoFaF9S2JHUJzFxCkUDfgL
 广东珠江,tvbus://6gfNE9gwsxxJa44rbU7TgXZTqnkKgpjpKSDc1cyd2r7EdxQEJZRjwqmyWFV7Q
@@ -1149,7 +1146,7 @@ Baby Song 3,https://linkastream.co/headless?url=https://www.youtube.com/channel/
 
 
 
-綜合娛樂,#genre#
+$c_start綜合娛樂$c_end
 
 TVBS歡樂,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo#tvbus://7zPtZ59uCMN6yYUukgdVWxT6RQB3u6UomETnNg3rPcYTdfuc5k
 TVBS精采台,tvbus://6XbZPjUSREcXYoh1NWQ6LmTHS54rREPg8e4kEnWaHzcRZaspKcN5h9HxPGgM4#tvbus://7iAPforjP4iJd3SRXV4mxgici7b9CFEN3W97KwJuapBdDe8oy7
@@ -1187,7 +1184,7 @@ TLC,tvbus://7CuZW13fjhhGbZdVhNiE2EgVyFpTCXNdmHsWvswNYi8iDbAUib#tvbus://5tPdUqjvz
 亞洲美食頻道,tvbus://5cnGsb1zt9JnveQhexaWWPVG84Tdf1eXynqTXH3sCK7WvHqExgLGvdKMfUejC#tvbus://7qTNrpD3h5YigfW7sNmtjHjQdot8Zx4yu9aHNY8Q6APs9ck4JJ
 
 
-體育,#genre#
+$c_start體育$c_end
 
 CCTV5,tvbus://6Xk7Gt5YodDFUV37xbuJux5VD4nJHuNGzCXBUoKP5Z9UVVCxc9GGZk3jkpXrv
 CCTV5+,tvbus://6e3xGT9UVD6oDSZgDxpf4S7CFQB1psto8QaThj8cnnUjV9c7DQV4EVi4muKFQ
@@ -1381,7 +1378,7 @@ BeIN_Sports_12,tvbus://5UieiWVbtAu9FxgBYMxoZBhDVLSp6ztdcUxFmaqB7KRkzfmKnCiLgps18
 
 
 
-音乐,#genre#
+$c_start音乐$c_end
 
 MTV Classic,tvbus://5kDG2NvwuwEoV8jpCSbKwCNAmaBpUmatrBMWpVLML4BoKyy4dd8MckqnTYF9G
 MTV Rocks,tvbus://5QrtURwqdJa9h9nQGmLg3eTMr1VtiEXZ72Xjs5uXewfWD7kY6mafX9Br4kCxN
@@ -1396,7 +1393,7 @@ Sun_Musicᴴᴰ,tvbus://5UqR917ijwsCNKJeBhQBS59ni9f5wvY4ezCjMRim5LyMvgtFWCUfJcpd
 sunmusic,tvbus://62kyEciqNKqv4nm56D9AyTvh9pAFH8HweF4chr8T8P5PP78t4qPiJ4XUTh69t
 
 
-美食,#genre#
+$c_start美食$c_end
 
 亞洲美食afc,tvbus://6AtXL55Kx6CAK5JbLx9V44H8fSU46u1MqWEUvGQDxHcSqXRVwQSrTfBGo7sXf
 美食星球頻道,tvbus://63uxhzeBficQALWigXLjuifUxLJH9CsqtXXVjTDCQyXGBxGgXTzxVucFY1x35
@@ -1404,7 +1401,7 @@ Food Network,tvbus://6BKgPVF6jrQbdRj5mFhGBfqEHgQGGjTE9A9TEmheHGWozbb7qkf2nzThx32
 Food Net,tvbus://6GT63xDv1NDa2iB33NnD8kFXm13CWgpcGKt7kF6EfQRnnCZiPUUXFhucTdqwE
 Food-Netᴴᴰ,tvbus://6HwjCkogTpgCf6iRswVR4qQGECbcZXW19Lq1314tBjWeGiNZ
 
-知識,#genre#
+$c_start知識$c_end
 
 罪案偵緝,tvbus://8hK7txkGsuMf38F6S7GUqddXdip9HPKWqxLRa9TATsqVv4CyAy#tvbus://5cBuWJcyHBKyH8t8vCKZ9bpZUMUFk8DTc1LUuXYg3PGULKo7wsvxizftUPTmT
 動物星球,tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq#tvbus://8bwqTjQgxzwukjMho947qg83SKhuo4hThVwj1p1udAYjCpqo13
@@ -1429,7 +1426,7 @@ DMAX,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
 BBC_Lifestyle,tvbus://5wefCvSVvkt2zhp4HDBEWmxbYV7g5r6Xj27bg7FJMv8o9FBdYudRNYyLVw2at#tvbus://8PEb6ALW7Ws3mW7n1NFvUc5WMFMsNJEnzeEBfHsSLmofe3Xo7y
 HGTV,tvbus://6ANqMvY4d38nep7nc1mdJVCdFmXy9Yr7isqWDyAH2wBEi9BsYu51mm5kPjjHV
 
-少兒,#genre#
+$c_start少兒$c_end
 
 Animax,tvbus://5uoCKeuWTjVa6aY3dHgCe2fTf9AzsPfGpZJ1a59XBFZGxfdwUGS4vPhKzTT2H#tvbus://75CFwq3SwbVUh9dcVA1HFRgP17eLAAEigXZ5amYKbGVSnyJC8H
 Boomerang,tvbus://8YuJE9sdG8s4GS6QobPiDT6Y62DUJnEagvdHL5MJdig5KMmuGF
@@ -1510,7 +1507,7 @@ Nickelodeon,tvbus://5LZWh91Sh6V9KuaTxXonE1vK8tm38151s7vXdC9bt53fdMfL6wCqViMUNdvV
 
 
 
-纪实,#genre#
+$c_start纪实$c_end
 
 原住民族電視,tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
 國家地理頻道,tvbus://5iAdgFNmUdAJS6ZRe4eh5qr6Du6LqwR7ggjYUmjjHc3jYU3GPcVzuyN1XgVK7
@@ -1583,7 +1580,7 @@ Rodja_TV,tvbus://83kXdq2u72mJdkV82f8GHGPoXQLH2BCZGsufw33u8hhiFtnwVe
 
 
 
-越南,#genre#
+$c_start越南$c_end
 TTXVN,https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
 TTXVN,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720p/playlist.m3u8
 Phòng Nhạc V-Pop,https://vnso-zn-3-tf-multi-playlist-zmp3.zadn.vn/7K4L1x4GqAg/zhls/playback-realtime/a9a4a463982671782837/index.m3u8
@@ -1645,8 +1642,6 @@ HTVC Thuần Việt SD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUAN
 HTVC Thuần Việt HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 HTVC VGS Shop,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
 HTVC Plus,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-
-
 
 SBTN,tvbus://5rZevjiuFoGn3D8tfKi1CBERXVyrVP3bqjDgTghcmt2SvfHEtzQSkP7K4EZ8Z
 KGTV,tvbus://6dLr3qjztzJCwrDDbThoD99aATwX8qetXvTL7zdi1xbJu9FssUixowJCziLrt
@@ -1819,7 +1814,7 @@ AXN,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 
 
-澳洲,#genre#
+$c_start澳洲$c_end
 
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC News,https://c.mjh.nz/101002210220/
@@ -1859,7 +1854,7 @@ ABC Mel,https://abcradiolivehls-lh.akamaihd.net/i/localmelbourne_1@327266/master
 ABC Jazz,http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
 
-日本,#genre#
+$c_start日本$c_end
 
 
 天気预报,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
@@ -1968,7 +1963,7 @@ FM 78.7かほく,http://radio.kahoku.net:8000/;
 FM Banana ,http://musicbird.leanstream.co/JCB075-MP3
 
 
-韓國,#genre#
+$c_start韓國$c_end
 
 韓國-KMTV,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
 韓國-tvN,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
@@ -2070,7 +2065,7 @@ K+PC,tvbus://64jrCxZjqHwRZeCvoYj5iL4boyrhLFKPMhj2euyxEWyTqLqPKm8GQMoe8hBQD
 
 
 
-新馬印尼,#genre#
+$c_start马新/MalSin$c_end
 
 翡翠臺,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
 華麗臺,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
@@ -2205,7 +2200,7 @@ Jak-TV,tvbus://6cc7yZ1PCAPx8ZtNAo6LQHkKog3FpFFoCEB7LcrzsDUrgUz9hSvQvoGwHJJAT
 
 
 
-国际,#genre#
+$c_start国际$c_end
 
 HBOᴴᴰ,tvbus://5g7NaB7D2Ro6A1q6kHELAdczsLhfbhEFfwnXM3UR3Qu5zhjxwzchXvkRVrgxX
 FOXᴴᴰ,tvbus://6Hn97tQ34VLtKdp8cafQBctQdyxDW7gN8FviCzR3YcXZnhbBNhjXgjL7zdHhi
@@ -2393,7 +2388,7 @@ MTV_LIVEᴴᴰ,tvbus://5YS1LUZgi5WvmrEVXGSADZBV6vJsKC23E8MrMuch7DqNRCn4pHkjjEVrd
 Rodja_TV,tvbus://83kXdq2u72mJdkV82f8GHGPoXQLH2BCZGsufw33u8hhiFtnwVe
 TV_Mu,tvbus://5PgHgWHFbwSyXYMPTgsAYqMvYkLuvDXcv4ovjX3cBtKDfLNqQyyUfWXTQK7yF
 
-北美,#genre#
+$c_start北美$c_end
 
 北美-TVBUSA,tvbus://6f17tQ6mnVU1tK1MAPxxc7PN7zzFSnk5wxCXM2hyKwpjjFSXVWfYjFJUNYVvF
 北美-TVB1,tvbus://5YeFgSMwFUjFkcBXPjNWYRFMi11BDSh1DbG9XmAgqQ5mKHo2MzNtd8aPoQZg1
@@ -2541,7 +2536,7 @@ CTV_NEWS,tvbus://66DSH9erdnKvzHiuVhTviV8Ri3xmJiwX3nt1aUWdZUkpJoiiDo13t7hD5Ya2f
 CTV_MONTREAL,tvbus://6LgaCmcUc9SgxBJfW2epjkfQwpy77izxnZo9hwdMGb9nH4kuE7gjtzwBwLbgq
 NBC_Sports_Boston,tvbus://6WWjkQoaF36RRiwTzpg4STGHini7jVkQrSY9U4wHUY29AzJrCu3yPyad8BxGp
 
-英国,#genre#
+$c_start英国$c_end
 
 BBC Newsᴴᴰ,tvbus://6WmFvgkJWGLxNuykiPM5yYkJyKHysH3imsmfwgNdgkoybLgUzbPmbWsUzjqxi
 BBC 1ᴴᴰ,tvbus://6RPGHqApx4DE2fe5MR5pq8xANkKQ9TJqnNBDGdf7NAift3iK4zzCxmEU2m283
@@ -2602,7 +2597,7 @@ Film4,tvbus://5grpFNAMwa7miDs35HUUSSoyH9jgSvdwHbknf4pkikRP5TGCfYLKiSfVvW6PQ
 
 
 
-印度,#genre#
+$c_start印度$c_end
 
 Sun Musicᴴᴰ,tvbus://5UqR917ijwsCNKJeBhQBS59ni9f5wvY4ezCjMRim5LyMvgtFWCUfJcpdmbCPV
 RAJTV,tvbus://5M7xwgz2c1rMse4hVQdPMxqYV9XyomJoMwgfpyhRGyuEqn1EUATj9x3ivRsFQ
@@ -2657,7 +2652,7 @@ Asianetᴴᴰ,tvbus://5R42Be4U7fRwebDbeMzeiwH9k3ZyhuTh2bmeyx15Q3MFBgu8cUG59XMhRN
 starvijay,tvbus://5eSYEihhcjqNmxq23HxHrLnfK6qfGXNxR1P8Z6nsrzfgotqJEMr7Y82LC4eCW
 zeetherai,tvbus://5Vp5SxYe4WGCypNjG1wHqAjHqCok1d2GNttW2vuZEJVHt3ahL1rxWX8Edn4pH
 
-泰国,#genre#
+$c_start泰国$c_end
 
 TPBS3,tvbus://6Bw5BQnJLdyD9bVtURKrhALP8tqG9Dk7uL7d57NNEudM8Ay2ECTRnjKHowuhr
 Movie_TV,tvbus://6fSDeTivsski8g7NkVU3H5qTtFNrwo1VjNzdsr2UM8MuXs6BKMxYbHfmWkmnL
@@ -2701,7 +2696,7 @@ WARNER TV THAI,https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 
 
-菲律宾,#genre#
+$c_start菲律宾$c_end
 IBC,tvbus://61pBxZdssrxAG9PjjNcYNCBu5TBirbh5yyh3mQS5vZxhDzAUgYqzHXBV9YYZF
 GTV,tvbus://5whULeiNcocXLdUTzjPqzf7rG9TxjQdeWWgkCrkgqAhdaGnrrJBKibZTHrWwa
 dzrhnews,tvbus://64HnnaEjC1yzTfZFgWoLXusbngsbtBMaDyPu3zwBF1NjjhZmuLtMh7Z1GcCGa
@@ -2717,7 +2712,7 @@ cinemaone,tvbus://5XKWTJekSmK1HCRePprPjTBuDkAiypyf5F4TEM1JbMuvbpwMUkUHoeiMkCm2h
 myx,tvbus://68cFzKEA8em3Bxqzj9GvKHd6je6thMZ9Yxt6s5z6UDMtoBiBf2NFQZCuyoZMa
 jeepney,tvbus://6HtbUbk1qC14oQW7geApH6j69LJUWFCN1Z27p7s9TYppevpTDwEGx8LDFjq8L
 
-柬埔寨,#genre#
+$c_start柬埔寨$c_end
 Sea TV,tvbus://5QjaNKV1c8834Z7iHwxjmNaUDYo5LXWn6cFVXcRuSfXrJ6fbc39CQgosRiiEk
 HangMeas,tvbus://5M1Sf6JTSuWtgWFisLcSxej2aRFiQHoACMSdzhzWmmAJTyeQctYKbskkqWkDm
 Apsara,tvbus://5frC2i34AT4bJYjwWko9L8h29FrqHHMMvSQyUBiBjqRnnMWjbkhKwikuSw9gY
@@ -2757,7 +2752,7 @@ TVK,tvbus://5fThamQQ3HtRzmzTDpCCHVs7CZSF25wyBqMaEgmydTyU4kD6TFJ6BNf4kExbD
 WIKI TV,tvbus://6FDP4TwYSmt2f1b3zHhczpsv7dZ7H5n71pLRMvqMLBbFGq4SFjJFwwPDU2AY9
 
 
-海外,#genre#
+$c_start海外$c_end
 
 海外-雙星,tvbus://65KFzmeNPHWa91jTcsym8egA3XAiavnD5Ak1NJ2iiHNhKxC2AY7Gz47q6MyDj
 海外-全佳,tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m
