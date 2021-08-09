@@ -1,86 +1,3 @@
-$c_start奥运赛$c_end
-RTVE OL,http://91.126.141.13:1935/live/41/1800-def.m3u8
-AIS1,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel1/chunks.m3u8
-AIS2,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
-AIS3,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel3/chunks.m3u8
-AIS4,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel4/chunks.m3u8
-AIS5,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel5/chunks.m3u8
-AIS6,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel6/chunks.m3u8
-AIS7,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel7/chunks.m3u8
-AIS8,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel8/chunks.m3u8
-AIS9,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel9/chunks.m3u8
-AIS10,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel10/chunks.m3u8
-AIS11,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel11/chunks.m3u8
-AIS12,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel12/chunks.m3u8
-AIS13,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chunks.m3u8
-AIS14,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
-AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chunks.m3u8
-AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
-有線奧運601,https://api.leonardpark.dev/live/icable/601
-有線奧運602,https://api.leonardpark.dev/live/icable/602
-有線奧運603,https://api.leonardpark.dev/live/icable/603
-有線奧運604,https://api.leonardpark.dev/live/icable/604
-有線奧運605,https://api.leonardpark.dev/live/icable/605
-五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星體育+重,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
-CCTV奧運,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-CCTV-5體育,http://livetv.dnsfor.me:80/channel.17.m3u8
-CCTV5,http://111.20.105.60:6060/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5+11,http://111.20.105.60:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5+12,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5+15,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-CCTV5+16,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
-CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5+17,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV5+18,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV5+19,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-香港开电视,http://livetv.dnsfor.me/channel.9.m3u8#P2p://54.39.118.88:18912/5b140a990002d1a89cac9e13b5b361a2.ts#http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://cdn.hkdtmb.com/hls/77/index.m3u8
-Now直播新聞台,http://livetv.dnsfor.me:80/channel.3.m3u8
-ViuTV 6,http://93.190.139.36:8278/streams/d/9ae6d37d9a/playlist.m3u8#http://hls.globaliptv.ml/viu96.php#http://hls.globaliptv.ml/viu96.php#http://61.238.6.49:8000/bysid/96#P2p://54.39.118.88:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
-超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8#http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-CCTV-5体育,http://58.200.190.80/hls/hls73a5.m3u8#http://58.200.190.80/hls/jlu_cctv5hd.m3u8#http://58.200.190.80/hls/hls73a5.m3u8#http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8#http://39.134.39.4/PLTV/88888888/224/3221226146/index.m3u8#http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8#http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8
-CCTV-5+体育赛事,http://58.200.190.80/hls/hls92.m3u8#http://58.200.190.80/hls/hls73a6.m3u8#http://58.200.190.80/hls/jlu_cctv5p.m3u8#http://117.136.156.37/PLTV/88888888/224/3221225512/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-咪咕视频4K,http://117.136.154.98/PLTV/88888888/224/3221225724/index.m3u8
-爱尔达体育-1,rtmp://59.124.75.153/sat/md011#rtmp://161.202.204.248/sat/md041#http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb#tvbus://8kv3HHJ95f9f8Wm9DYtv2bXXztieEEhXabQH2q7uVqbsG6Mg4A#tvbus://6QWCbqrPq3wwbJ4L38r3G5fb3Zj5AfTm4gPgMxwJAUhvLZo87F3N3tLKGN56v
-爱尔达体育-2,rtmp://59.124.75.153/sat/md021#http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8#tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb#tvbus://7EsoS5HVtrc5JCnFj9Rg2GvZh4Ghi31LcYBm6v8z1gzzsb1nfM#tvbus://66as5FBxuRC1Ypi9G9e7AZPASFv7hHE7ej1i8GKKkHXQSm23fnm6qfN67zbFw#tvbus://5hfsk3SxhLLVMowdFbbrYLK77WGeDeuP2PosHg8y8YFj8kBiheeTxp3fXKXfb
-爱尔达体育-3,rtmp://59.124.75.153/sat/md051#http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8#tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm#tvbus://8kLevnKMiQQAQkf3AUtTcxusFx7ucoMhHvqe5NLwSn561zvUvH#http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8#tvbus://6irSzf15nfxMrLZcinWCiaD5iFXRizHFWQQVks41A5UDKbXvV6UNAJGu6tqPB#tvbus://5XSQaD5wdt8NFhC9HHX3Ek3yXYPPtWm6YXpYNVd8SXMmjHkMmtA4k5jJm8zS7
-NHK (JOAB-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa1hd/playlist.m3u8
-NHK (JOAK-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa2hd/playlist.m3u8#http://redlabmcdn.s.llnwi.net/jp04/ryowa3hd/playlist.m3u8
-Asahi (JOEX-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa4hd/playlist.m3u8
-TBS TV (JORX-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa5hd/playlist.m3u8
-TV Tokyo (JOTX-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
-Fuji (JODX-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa7hd/playlist.m3u8
-Tokyo MX (JOMX-DTV),http://redlabmcdn.s.llnwi.net/jp04/ryowa8hd/playlist.m3u8
-TJB 대전방송(SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
-Korea MBC Live,https://true4u.com/live/
-Euro Sport 1,p2p://fccseuro.pvbox.live:18912/5bee54900005456e19e1d999277c5c55#p2p://fccsovh.pvbox.live:18912/5bee54900005456e19e1d999277c5c55#http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-RCTI,p2p://fccsovh.pvbox.live:18912/5d72049f0005545787c787f78689501c#p2p://fccseuro.pvbox.live:18912/5d72049f0005545787c787f78689501c
-TVRI Sports,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8#p2p://fccsovh.pvbox.live:18912/5f10049a00080828027adf0a68d41227#p2p://fccseuro.pvbox.live:18912/5f10049a00080828027adf0a68d41227#tvbus://5nHtkB1y2ke44tsCPWCuSbCQNvVyq1bMeHGKQtcSSPCFqoZGGJ9XgERXcNSAc
-OLYMPIADE LIVE,http://91.126.141.13:1935/live/41/1800-def.m3u8
-Arena,http://iptv.tvmalaysia.cc:80/penang172/penang172/6707#http://iptv.tvmalaysia.cc:80/penang172/penang172/8750#tvbus://8Ruu5W57ZC3tXY3DQRLdBMKzPCPto2222SwyRadyrwFRH9gLPC#mitv://fccseuro.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c.ts#mitv://fccsovh.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c.ts#p2p://fccsovh.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c#p2p://fccseuro.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c#http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3269#http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8#http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-RTMsport,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8#http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8#https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd#tvbus://5ejKRPmNukEhWXWe2bnuafe5hqL5a5Mb1UCc1SWy8jrXwYrHs9kfYJTREQECC@http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8#tvbus://48Yw8WuRMtkhCpqvhxVSmpm7a57Y68aHnWN8W16PKtjoBWmPmh#tvbus://5ejKRPmNukEhWXWe2bnuafe5hqL5a5Mb1UCc1SWy8jrXwYrHs9kfYJTREQECC
-Ten-1,p2p://fccsovh.pvbox.live:18912/5cf55a00000f05529a612a29faf3631f#p2p://fccseuro.pvbox.live:18912/5cf55a00000f05529a612a29faf3631f
-Ten-3,p2p://fccsovh.pvbox.live:18912/5cffd7940009905bc3546565cc212fca#p2p://fccseuro.pvbox.live:18912/5cffd7940009905bc3546565cc212fca
-BeIN Sport1 Premium,http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8#http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-BeIN Sport3 Premium,http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8#http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-BeIN Sport4 Premium,http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
-BeIN Sport5 Premium,http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
-BeIN Sport7 Premium,http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-BeIN Sport1 Live Premium,http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8#http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-Super sport Premier,http://iptv.tvmalaysia.cc:80/penang172/penang172/6574
-
 $c_start体育/Sports$c_end
 Assp-1,http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247415#mitv://fccseuro.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts#mitv://fccsovh.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts#tvbus://4N4K4T6w98gA6nRqJT3B9aXbcGKHN1pRcmw7wt9dJPFBz8tNmf#tvbus://5fupRjukQbUSe4YT7YLhi8WM1ar4VYwytwcr1BwSMh2vMmcfB7HBB9JXj9EtV#tvbus://5WqJVQRnFRL3iU8XdjNDMyJdzqEAkBZRZ4DfEfCAZsGSai7up7seDMGDccT7H#tvbus://6H2c5ZeVMNk8Wsv4iVB8HneQWWN9F5AHgyXbDSFsvnen6YovwwPjucWYZ1U3k#http://iptv.tvmalaysia.cc:80/penang172/penang172/6708#p2p://livefccs.looktvb.com:16888/5f45ffcc000d5735042c740a5503abc5.ts#http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 Assp-2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8#tvbus://2zoA3d5r5AEVC4Fc4x7dw7sv6QHBYuRCSQL5P5i6bCdL7pBjWo#tvbus://5LtDAcGu9zFK2FGMbt9zG2DEqUfhenieGDinP8f24YnEibmGEdBCHeMDNHoPn#tvbus://6beEjL8WJkEmP9EL9fTDumDSMtQsbCTTXESHcH2z2xYd1Am2FPViuUYL9MXWU#tvbus://65XKkZYutDefS8wJMD26w6Lrfx2Yp2gHyR28FmhTemCHCdYRkjPKQzn3ZVTLC#http://iptv.tvmalaysia.cc:80/penang172/penang172/6710#p2p://livefccs.looktvb.com:16888/5f45ffce00034f5f042c7949b106f35e.ts
@@ -202,6 +119,8 @@ Star Sports 1,p2p://fccseuro.pvbox.live:18912/5bee55dc0004a19a19e6ea4a68542781#p
 Star Sports 2,p2p://fccseuro.pvbox.live:18912/5bee55df000bc10919e6f7d75b5c489a#p2p://fccsovh.pvbox.live:18912/5bee55df000bc10919e6f7d75b5c489a
 BT Sport 2,p2p://fccseuro.pvbox.live:18912/5bee4e05000650af19c84ae038dc748b#p2p://fccsovh.pvbox.live:18912/5bee4e05000650af19c84ae038dc748b
 SBS sports,p2p://fccsovh.pvbox.live:18912/5f9f841a00028018330460eb44ad1075#p2p://fccseuro.pvbox.live:18912/5f9f841a00028018330460eb44ad1075
+RTVE OL,http://91.126.141.13:1935/live/41/1800-def.m3u8
+Super sport Premier,http://iptv.tvmalaysia.cc:80/penang172/penang172/6574
 
 $c_start马新/MalSin$c_end
 AEC-1,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8#tvbus://6dtCeawyvSQEbSUpBmvv339ixBnxiBc3C98C5yr2v1pWditovZy1T1F37jAEn#tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3#tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq#tvbus://69HUkvFC5bgvWC7Aiyw5D97oab717PfL95iuqLjfdhJuWz5DA2phzxoLcKLi4#mitv://fccseuro.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#mitv://fccsovh.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts#mitv://fccseuro.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts#mitv://fccsovh.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts
@@ -210,7 +129,7 @@ AEC-2,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8#http://198.16.106.
 欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 全佳,tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m#mitv://fccseuro.pvbox.live:18912/5d6504490007b998b2eb2bbcf78738b5.ts#tvbus://7AVPPPt8kpup4Ct9WFGzMfKNzibDhJvmVM2rAaDEFYqCJQyZHs
 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247425#mitv://fccseuro.pvbox.live:18912/5d6631530004ae4c2d9505ff2a9c6848.ts#mitv://fccsovh.pvbox.live:18912/5d6631530004ae4c2d9505ff2a9c6848.ts#P2p://54.39.118.88:18912/5d6631530004ae4c2d9505ff2a9c6848.ts
-华丽,http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157507#tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF#mitv://fccseuro.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901.ts#mitv://fccsovh.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901.ts#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157507#tvbus://7f5FQXEtHxfnkhqDEbJwMe2uUxqxTW95X7LVv9KsZwLvGRjisq
+华丽,http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157507#tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF#mitv://fccseuro.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901.ts#mitv://fccsovh.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901.ts#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157507#tvbus://7f5FQXEtHxfnkhqDEbJwMe2uUxqxTW95X7LVv9KsZwLvGRjisq#P2p://170.178.164.242:6220/5b448e7100022f9f0011b6cb00e4d4bf.ts#tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5d65044c000b4cce9c301cedd82d80c2.ts#mitv://fccsovh.pvbox.live:18912/5d65044c000b4cce9c301cedd82d80c2.ts#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247428
 欢喜,http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8#http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/247424#tvbus://71Jwu3tfPt6yUftBEL3ioCsheU4AYZJw8VyhgTZFWv2iDJMWHN
 AOD,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8#http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8#tvbus://5pkpN6REsdX5r21CDpcskP8V36wFx1omUXXVSwj3xnUXZicpSbmBWxpUnNDr
@@ -254,13 +173,15 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 Mediacorp8,mitv://fccseuro.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts#mitv://fccsovh.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts#tvbus://65xso2Veq1GffYRnyi4BPPtexdhXtwf8dqRJnpyJYwaGqSSsqahAt2mV4zofh#mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts#P2p://54.39.118.88:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts#P2p://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
 Mediacorp5,mitv://fccseuro.pvbox.live:18912/5bcd6bd7000e85ac24f011790821a01b.ts#mitv://fccsovh.pvbox.live:18912/5bcd6bd7000e85ac24f011790821a01b.ts#mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#tvbus://5vh5AYEgpLtBT8zc4qWXZs4qdikuMajtWoh22J7XbgbHt26s1mxnAbfc8b5TA#P2p://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts#https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd#http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 Ch-U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8#mitv://fccseuro.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts#mitv://fccsovh.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts#P2p://54.39.118.88:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts#tvbus://6C4PGkpCggL8GC7MyxfxsUop6Jd4nMsvG28j16JQtuhdbQjMyFED4Js51RYvW
+RTVE OL,http://91.126.141.13:1935/live/41/1800-def.m3u8
+
 
 $c_start 香港/HK$c_end
 鳳凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2#
 鳳凰資訊台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 無綫新聞台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://ye23.win/iptv/tvb.php?id=1#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me/channel.10.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-有線新聞台,https://api.leonardpark.dev/live/icable/109
+有線新聞台,https://api.leonardpark.dev/live/icable/109#https://www.navchina.cf/IPTV/icable.php?id=37
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110#http://hkyx.love.sky-media.tk/test/index.php?id=39
 Now新聞,http://livetv.dnsfor.me/channel.4.m3u8#http://livetv.dnsfor.me/channel.3.m3u8#tvbus://8ZmAhsQuXiawwzH9WSTxkS34cdmLShs44nrCAC7EABPSqRvUwm
 Now直播新聞台,http://livetv.dnsfor.me:80/channel.3.m3u8
