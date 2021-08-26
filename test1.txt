@@ -1,5 +1,3 @@
-Jog Tv - 25-Aug -2021
-
 $c_start港澳$c_end
 翡翠臺,tvbus://6TfjoohwSRMxGFboofPXSiezLKLkKxoKJM7mZ8eK7C5AZ3YaEttTM9UTsGJH7
 無線新聞,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
