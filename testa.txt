@@ -1,5 +1,5 @@
 $c_start体育/Sports$c_end
-Assp-1,http://iptv.tvmalaysia.cc:80/139664/139664/67#http://iptv.tvmalaysia.cc:80/penang174/penang174/6708#http://iptv.tvmalaysia.cc:80/kl570/kl570/6708#http://iptv.tvmalaysia.cc:80/624850/624850/6708
+Assp-1,http://iptv.tvmalaysia.cc:80/139664/139664/6708#http://iptv.tvmalaysia.cc:80/penang174/penang174/6708#http://iptv.tvmalaysia.cc:80/kl570/kl570/6708#http://iptv.tvmalaysia.cc:80/624850/624850/6708
 Assp-2,http://iptv.tvmalaysia.cc:80/139664/139664/6710#http://iptv.tvmalaysia.cc:80/penang174/penang174/6710#http://iptv.tvmalaysia.cc:80/kl570/kl570/6710#http://iptv.tvmalaysia.cc:80/624850/624850/6710#p8p://0198.02686.cc:16871/5ecfb8a5000633be9696b5b754f59677.ts
 Assp-3,http://iptv.tvmalaysia.cc:80/139664/139664/6711#http://iptv.tvmalaysia.cc:80/penang174/penang174/6711#http://iptv.tvmalaysia.cc:80/kl570/kl570/6711#http://iptv.tvmalaysia.cc:80/624850/624850/6711#p8p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1.ts
 Assp-4,http://iptv.tvmalaysia.cc:80/139664/139664/6712#http://iptv.tvmalaysia.cc:80/penang174/penang174/6712http://iptv.tvmalaysia.cc:80/kl570/kl570/6712#http://iptv.tvmalaysia.cc:80/624850/624850/6712#p8p://0198.02686.cc:16871/5ecfb8eb000e05559697c928d4828974.ts
