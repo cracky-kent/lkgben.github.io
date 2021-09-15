@@ -130,7 +130,6 @@
       "filterable": 0,
       "categories": []
     },
-    {
       "key": "极品资源",
       "name": "极品资源",
       "type": 0,
