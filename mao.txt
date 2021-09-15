@@ -445,7 +445,7 @@ l/",
       "searchable": 1,
       "filterable": 0,
       "categories": []
-    }
+    },
     {
             "key": "U猫m3u8",
             "name": "U猫m3u8",
@@ -457,7 +457,7 @@ l/",
             "categories": [
             ]
         },
-{
+        {
             "key": "BL视频",
             "name": "BL视频",
             "type": 0,
