@@ -421,7 +421,7 @@
             "name": "星辰资源",
             "type": 1,
             "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
-            "playUrl": ""
+            "playUrl": "",
             "categories": [
             ]
         },
@@ -439,7 +439,7 @@
              "name": "09蓝光影视",
              "type": 0,
              "api": "https://09tv.top/api.php/provide/vod/at/xml",
-             "playUrl": ""
+             "playUrl": "",
              "categories": [
             ]
         },
