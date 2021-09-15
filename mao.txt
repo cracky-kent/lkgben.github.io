@@ -28,9 +28,7 @@
       "type": 0,
       "api": 
 
-"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml"
-
-,
+"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
       "filterable": 0,
