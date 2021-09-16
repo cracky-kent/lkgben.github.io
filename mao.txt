@@ -82,7 +82,7 @@
             "name": "星辰资源",
             "type": 1,
             "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
-            "playUrl": ""
+            "playUrl": "",
             "categories": [
             ]
         },
@@ -100,14 +100,18 @@
              "name": "M3U8.TV",
              "type": 0,
              "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
-             "playUrl": ""
+             "playUrl": "",
+            "categories": [
+            ]
         },
         {
              "key": "09蓝光影视",
              "name": "09蓝光影视",
              "type": 0,
              "api": "https://09tv.top/api.php/provide/vod/at/xml",
-             "playUrl": ""
+             "playUrl": "",
+            "categories": [
+            ]
         },
         {
              "key": "乐喵资源",
@@ -364,16 +368,24 @@
                 {
                     "name": "凤凰卫视",
                     "urls": [
-                        "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
-                        "HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8",
-                        "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8",
+                        
+
+"http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
+                        "HD,http://117.169.124.37:6610/ysten-
+
+businessmobile/live/fhchinese/1.m3u8",
+                        
+
+"http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8",
                         "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
                     ]
                 },
                 {
                     "name": "凤凰资讯",
                     "urls": [
-                        "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+                        
+
+"http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
                         "HD,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8",
                         "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
                     ]
@@ -383,12 +395,18 @@
                     "urls": [
                        "http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225511/index.m3u8",        
-                        "http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8",
+                        
+
+"http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
                         "http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8",
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8",
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226338/1.m3u8"
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226338/1.m3u8"
                     ]
                 },
                 {
@@ -396,8 +414,12 @@
                     "urls": [
                         "http://39.134.155.153/PLTV/88888888/224/3221225650/index.m3u8",
                         "http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8",
-                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
-                        "http://117.148.179.160/PLTV/88888888/224/3221231678/index.m3u8",                      
+                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-
+
+1080P-cctv2",
+                        "http://117.148.179.160/PLTV/88888888/224/3221231678/index.m3u8",         
+
+             
                         "http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8"
                     ]
                 },
@@ -405,17 +427,23 @@
                     "name": "CCTV-3",
                     "urls": [
                         "http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8",
-                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
+                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-
+
+1080P-cctv3",
                         "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8",
                         "http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8",
                         "http://117.148.179.160/PLTV/88888888/224/3221231682/index.m3u8"
                     ]
                 },
                 {
                     "name": "CCTV-4",
                     "urls": [
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8",
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225557/index.m3u8",
                         "http://117.136.154.86/PLTV/88888888/224/3221225501/index.m3u8",
                         "http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8"
@@ -424,25 +452,39 @@
                 {
                     "name": "CCTV-5",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226259/1.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226259/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225559/index.m3u8",
                         "ttp://39.134.39.37/PLTV/88888888/224/3221226151/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226256/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226256/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225550/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225668/index.m3u8",
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8"
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8"
                     ]
                 },
                 {
                     "name": "CCTV-5+",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8",
                         "http://39.134.39.37/PLTV/88888888/224/3221226253/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225767/index.m3u8",
                         "http://39.134.39.37/PLTV/88888888/224/3221226146/index.m3u8",
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8"
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8"
                     ]
                 },
                 {
@@ -455,21 +497,31 @@
                 {
                     "name": "超级体育",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226232/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226232/1.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8"
                     ]
                 },
                 {
                     "name": "福建体育",
                     "urls": [
-                        "rtsp://183.252.166.199:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil",
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil"
+                        
+
+"rtsp://183.252.166.199:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil"
+
+,
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil"
                     ]
                 },
                 {
                     "name": "快乐垂钓",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8"
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8"
                     ]
                 },
                 {
@@ -488,19 +540,25 @@
                     "name": "CHC家庭影院",
                     "urls": [
                         "http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8",
-                        "http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+                        "http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?
+
+virtualDomain=yinhe.live_hls.zte.com"
                     ]
                 },
                 {
                      "name": "CHC动作电影",
                      "urls": [
-                        "http://39.134.19.228:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+                        "http://39.134.19.228:6610/yinhe/2/ch00000090990000002055/index.m3u8?
+
+virtualDomain=yinhe.live_hls.zte.com"
                     ]
                 },
                 {
                      "name": "CHC高清电影",
                      "urls": [
-                        "http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+                        "http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m3u8?
+
+virtualDomain=yinhe.live_hls.zte.com"
                     ]
                 },
                 {
@@ -514,17 +572,23 @@
                 {
                     "name": "超级电影",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8",
                         "http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8",
                         "http://117.148.179.160/PLTV/88888888/224/3221231564/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8"
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8"
                     ]
                 },
                 {
                     "name": "精品大剧",
                     "urls": [
                         "http://111.40.196.9/PLTV/88888888/224/3221225612/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/1.m3u8"
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/1.m3u8"
                     ]
                 },
                 {
@@ -547,9 +611,15 @@
                     "name": "CCTV-7",
                     "urls": [
                         "http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/1.m3u8",
-                        "http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8"
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/1.m3u8",
+                        
+
+"http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8"
                     ]
                 },
                 {
@@ -557,7 +627,9 @@
                     "urls": [
                         "http://39.134.39.37/PLTV/88888888/224/3221226150/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225565/index.m3u8",
-                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8",
+                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-
+
+1080P-cctv8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225592/index.m3u8",
                         "http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225666/index.m3u8"
@@ -566,8 +638,12 @@
                 {
                     "name": "CCTV-9",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8",
-                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8",
+                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-
+
+1080P-cctv9",
                         "http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8"
                     ]
                 },
@@ -576,14 +652,18 @@
                     "urls": [
                         "http://111.40.196.9/PLTV/88888888/224/3221225567/index.m3u8",
                         "http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8",
-                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10",
+                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-
+
+1080P-cctv10",
                         "http://39.134.24.24/PLTV/88888888/224/3221225782/index.m3u8"
                     ]
                 },
                 {
                     "name": "CCTV-11",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225496/index.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225825/index.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225774/index.m3u8"
@@ -592,7 +672,9 @@
                 {
                     "name": "CCTV-12",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8",
                         "http://117.148.179.160/PLTV/88888888/224/3221231660/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225498/index.m3u8"
                     ]
@@ -601,10 +683,16 @@
                     "name": "CCTV-13",
                     "urls": [
                         "http://111.40.196.9/PLTV/88888888/224/3221225504/index.m3u8",
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8",
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil",
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8",
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil",
                         "http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13",
-                        "http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8",
+                        
+
+"http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225612/index.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225650/index.m3u8"
                     ]
@@ -615,16 +703,24 @@
                         "http://117.148.179.160/PLTV/88888888/224/3221231648/index.m3u8",
                         "http://39.134.39.37/PLTV/88888888/224/3221226166/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225506/index.m3u8",
-                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14",
+                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-
+
+1080P-cctv14",
                         "http://111.40.196.9/PLTV/88888888/224/3221225573/index.m3u8"
                     ]
                 },
                 {
                     "name": "CCTV-15",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8",
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8",
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil",
                         "http://111.40.196.9/PLTV/88888888/224/3221225500/index.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8"
                     ]
@@ -633,7 +729,9 @@
                     "name": "CCTV-17",
                     "urls": [
                         "http://117.148.179.160/PLTV/88888888/224/3221231772/index.m3u8",
-                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17",
+                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-
+
+1080P-cctv17",
                         "http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8"
                     ]
                 },
@@ -643,7 +741,9 @@
                     "urls": [
                         "http://111.40.196.9/PLTV/88888888/224/3221225554/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225521/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225519/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225594/index.m3u8"
                     ]
@@ -651,11 +751,17 @@
                 {
                     "name": "东方卫视",
                     "urls": [                   
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225507/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225509/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225542/index.m3u8"
                     ]
                 },
@@ -665,8 +771,12 @@
                         "http://117.148.179.160/PLTV/88888888/224/3221231447/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225515/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225596/index.m3u8",
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8",
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225578/index.m3u8"
                     ]
                 },
@@ -681,7 +791,9 @@
                 {
                     "name": "深圳卫视",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226245/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226245/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225528/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225535/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225537/index.m3u8",
@@ -691,53 +803,73 @@
                 {
                     "name": "北京卫视",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226436/1.m3u8",
                         "http://39.134.39.37/PLTV/88888888/224/3221226161/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225527/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225540/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225529/index.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225646/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8"
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8"
                     ]
                 },
                 {
                     "name": "天津卫视",
                     "urls": [
                         "http://111.40.196.9/PLTV/88888888/224/3221225604/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8",        
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8"
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8",        
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8"
                     ]
                 },
                 {
                     "name": "安徽卫视",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8",
                         "http://117.148.179.160/PLTV/88888888/224/3221231567/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225551/index.m3u8",
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8",
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8",
                         "http://39.134.24.24/PLTV/88888888/224/3221225638/index.m3u8"
                     ]
                 },
                 {
                     "name": "重庆卫视",
                     "urls": [
-                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv",
+                        "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-
+
+8000k-1080P-chongqingstv",
                         "http://39.134.24.24/PLTV/88888888/224/3221225592/index.m3u8"
                     ]
                 },
                 {
                     "name": "东南卫视",
                     "urls": [
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil",
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil",
                         "http://111.40.196.9/PLTV/88888888/224/3221225583/index.m3u8",
                         "http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8",
-                        "http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8"
+                        
+
+"http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8"
                     ]
                 },
                 {
                     "name": "海峡卫视",
                     "urls": [
-                        "rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil"
+                        
+
+"rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil"
                     ]
                 },
                 {
@@ -753,8 +885,14 @@
                 {
                     "name": "贵州卫视",
                     "urls": [
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil",
-                        "rtsp://183.252.166.199:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil",
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil",
+                        
+
+"rtsp://183.252.166.199:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil"
+
+,
                         "http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225522/index.m3u8"
                     ]
@@ -762,7 +900,9 @@
                 {
                     "name": "海南卫视",
                     "urls": [
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil",
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil",
                         "http://39.134.24.24/PLTV/88888888/224/3221225614/index.m3u8"
                     ]
                 },
@@ -777,7 +917,9 @@
                 {
                     "name": "河南卫视",
                     "urls": [
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil",
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil",
                         "http://39.134.24.24/PLTV/88888888/224/3221225716/index.m3u8"
                     ]
                 },
@@ -785,13 +927,17 @@
                     "name": "黑龙江卫视",
                     "urls": [
                         "http://111.40.196.9/PLTV/88888888/224/3221225544/index.m3u8",
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226239/1.m3u8"
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226239/1.m3u8"
                     ]
                 },
                 {
                     "name": "湖北卫视",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8",
                         "http://39.134.39.37/PLTV/88888888/224/3221226159/index.m3u8",
                         "http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225549/index.m3u8",
@@ -810,7 +956,9 @@
                     "urls": [
                         "http://117.148.179.160/PLTV/88888888/224/3221231964/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225560/index.m3u8",
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8",
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225560/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225591/index.m3u8"
                     ]
@@ -818,7 +966,9 @@
                 {
                     "name": "辽宁卫视",
                     "urls": [
-                        "http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8",
+                        
+
+"http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8",
                         "http://117.148.179.160/PLTV/88888888/224/3221231802/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225593/index.m3u8"
                     ]
@@ -836,12 +986,16 @@
                 {
                     "name": "山东卫视",
                     "urls": [
-                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8",
+                        
+
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8",
                         "http://39.134.39.37/PLTV/88888888/224/3221226162/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225526/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225545/index.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225526/index.m3u8",
-                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8",
+                        
+
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8",
                         "http://111.40.196.9/PLTV/88888888/224/3221225546/index.m3u8"
                     ]
                 },
@@ -855,7 +1009,9 @@
                 "name": "云南卫视",
                     "urls": [                        
 
-"rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil",                        
+"rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil",    
+
+                    
 
 "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil",
                         "http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1",
@@ -894,7 +1050,9 @@
              "name": "广西卫视",
                     "urls": [
                         "http://111.40.196.9/PLTV/88888888/224/3221225518/index.m3u8",
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226070/10000100000000060000000002296911_0.smil",
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226070/10000100000000060000000002296911_0.smil",
                         "http://111.40.196.9/PLTV/88888888/224/3221225540/index.m3u8"
                     ]
                 },
@@ -950,13 +1108,17 @@
                 {
                     "name": "炫动卡通",
                     "urls": [
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226060/10000100000000060000000002296901_0.smil"
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226060/10000100000000060000000002296901_0.smil"
                     ]
                 },
                 {
                     "name": "嘉佳卡通",
                     "urls": [
-                        "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226046/10000100000000060000000002296680_0.smil"
+                        
+
+"rtsp://183.252.176.54:554/PLTV/88888888/224/3221226046/10000100000000060000000002296680_0.smil"
                     ]
                 },
                 {
@@ -989,13 +1151,21 @@
                 {
     "name": "香港翡� 台",
                     "urls": [
-                        "http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8"
+                        "http://116.199.5.51:8114/index.m3u8?
+
+Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pco
+
+ntent_id=.m3u8"
                     ]
                 },
                 {
                     "name": "香港明� 台",
                     "urls": [
-                        "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12"
+                        "http://116.199.5.52:8114/00000000/index.m3u8?
+
+&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_id
+
+x=12"
                     ]
                 },
                 {
