@@ -2060,7 +2060,7 @@ xiqumd"
     },
         {
             "name": "B站解析1",
-            "url": https://vip.parwix.com:4433/player/?url="
+            "url": "https://vip.parwix.com:4433/player/?url="
         },
         {
             "name": "B站解析2",
