@@ -22,6 +22,95 @@
                 
             ]
         },
+    {
+      "key": "afys_spider",
+      "name": "阿房影视",
+      "type": 2,
+      "api": "7gxke5P9eFZoVV",
+      "playUrl": "",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jpys_spider",
+      "name": "极品影视",
+      "type": 2,
+      "api": "xZk2ejNzP8Gape",
+      "playUrl": "",
+      "searchable": 0,
+      "filterable": 1
+    },
+    {
+      "key": "mgys_spider",
+      "name": "暮光影视",
+      "type": 2,
+      "api": "vnEF7qPNzi6C6C",
+      "playUrl": "",
+      "quickSearch": 0
+    },
+    {
+      "key": "ysgc_spider",
+      "name": "影视工厂",
+      "type": 2,
+      "api": "XXjMEvL4jg66rQ",
+      "playUrl": "",
+      "quickSearch": 0
+    },
+    {
+      "key": "auete_spider",
+      "name": "Auete影视",
+      "type": 2,
+      "api": "eboTY5qAokEemZ",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "adys_spider",
+      "name": "爱迪影视",
+      "type": 2,
+      "api": "48YdXbyTkTe55r",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "hgys_spider",
+      "name": "HG影视",
+      "type": 2,
+      "api": "wkjskK5hA6Cxr7",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "zjdr_spider",
+      "name": "追剧达人",
+      "type": 2,
+      "api": "irB66BwzwhbL4r",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+
+      "key": "zjm_spider",
+      "name": "追剧喵",
+      "type": 2,
+      "api": "KaxKyHhd9ErA9n",
+      "playUrl": "",
+       "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "xysgc_spider",
+      "name": "新影视工厂",
+      "type": 2,
+      "api": "Gy35wr8J2YUrtC",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
         {
       "key": "人人影视",
       "name": "人人影视",
@@ -2051,6 +2140,28 @@ xiqumd"
             "url": "https://www.qianyicp.com/?url="
         },
     {
+      "name": "暮光解析",
+      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+    },
+    {
+      "name": "Parwix解析",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "Json.M3u8",
+      "url": "https://json.m3u8.tv:7788/json.php?url=",
+      "type": 1
+    },
+    {
+      "name": "Json.VodJX",
+      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
+      "type": 1
+    },
+    {
+      "name": "Ckplayer",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
     },
@@ -2107,7 +2218,7 @@ xiqumd"
             "url": "https://www.ssamao.com/jx/?url="
         },
         {
-            "name": "� 极",
+            "name": "无极",
             "url": "https://da.wujiys.com/?url="
         },
         {
@@ -2242,7 +2353,8 @@ xiqumd"
         "tudou",
         "pptv",
         "mgtv",
-        "wasu"
+        "wasu",
+        "bilibili"
     ],
     "ijk": [
         {
