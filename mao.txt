@@ -76,7 +76,7 @@
         "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
         "playUrl": "https://vip.parwix.com:4433/player/?url=",
         "categories": []
-        }
+        },
         {
             "key": "极品资源",
             "name": "极品资源",
