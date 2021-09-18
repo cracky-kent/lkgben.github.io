@@ -42,7 +42,41 @@
             "categories": [                
             ]
         },
-
+        {
+           "key": "金球云",
+           "name": "金球云",
+           "type": 0,
+           "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+           "playUrl": "",
+           "categories": [
+           ]
+        },
+        {
+        "key": "爱看影视",
+        "name": "爱看影视",
+        "type": 0,
+        "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
+        "playUrl": "",
+        "categories": [
+        ]
+        },
+        {
+          "key": "蓝果影视",
+          "name": "蓝果影视",
+          "type": 0,
+          "api": "http://www.languotv.com/api.php/provide/vod/at/xml/",
+          "playUrl": "",
+          "categories": [
+          ]
+       },
+        {
+        "key": "天堂影视",
+        "name": "天堂影视",
+        "type": 0,
+        "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
+        "playUrl": "https://vip.parwix.com:4433/player/?url=",
+        "categories": []
+        }
         {
             "key": "极品资源",
             "name": "极品资源",
