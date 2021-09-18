@@ -174,120 +174,73 @@
             "categories": [                
             ]
         },
-{
-      "key": "金球云",
-      "name": "金球云",
-      "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        "国产剧",
-        "祖国同胞剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
-    },
-{
-"key": "爱看影视",
-"name": "爱看影视",
-"type": 0,
-"api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
-"playUrl": "https://vip.bljiex.com/?v=",
-"categories": [
-"综艺",
-"动漫",
-"动作",
-"喜剧",
-"爱情",
-"科幻",
-"恐怖",
-"剧情",
-"战争",
-"大陆剧",
-"港台剧",
-"日韩剧",
-"欧美剧",
-"纪录",
-"海外剧",
-"蓝光电影",
-"蓝光电视剧",
-"蓝光动漫"
-]
-},
-{
-"key": "蓝果影视",
-"name": "蓝果影视",
-"type": 0,
-"api": "http://www.languotv.com/api.php/provide/vod/at/xml/",
-"playUrl": "",
-"categories": [
-"综艺",
-"动漫",
-"动作片",
-"喜剧片",
-"爱情片",
-"科幻片",
-"恐怖片",
-"剧情片",
-"战争片",
-"国产剧",
-"港台剧",
-"日韩剧",
-"欧美剧",
-"福利"
-]
-},
-{
-"key": "天堂影视",
-"name": "天堂影视",
-"type": 0,
-"api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-"playUrl": "https://vip.parwix.com:4433/player/?url=",
-"categories": []
-},
-{
-"key": "陈家影视",
-"name": "陈家影视",
-"type": 1,
-"api": "https://www.cjt521.com/api.php/provide/vod/",
-"playUrl": "https://jiexi.cjt521.com/?url=",
-"categories": []
-},
-{
-"key": "白熊影视",
-"name": "白熊影视",
-"type": 0,
-"api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-"playUrl": "",
-"categories": []
-},
-{
-"key": "飞鱼影视",
-"name": "飞鱼影视",
-"type": 0,
-"api": "https://app.feiyu5.com/api.php/provide/vod/",
-"playUrl": "",
-"categories": []
-},
-{
-"key": "293影院",
-"name": "293影院",
-"type": 0,
-"api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
-"playUrl": "https://vip.bljiex.com/?v=",
-"categories": []
-},
+        {
+           "key": "金球云",
+           "name": "金球云",
+           "type": 0,
+           "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+           "playUrl": "",
+           "categories": [
+           ]
+        },
+        {
+        "key": "爱看影视",
+        "name": "爱看影视",
+        "type": 0,
+        "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
+        "playUrl": "",
+        "categories": [
+        ]
+        },
+        {
+          "key": "蓝果影视",
+          "name": "蓝果影视",
+          "type": 0,
+          "api": "http://www.languotv.com/api.php/provide/vod/at/xml/",
+          "playUrl": "",
+          "categories": [
+          ]
+       },
+        {
+        "key": "天堂影视",
+        "name": "天堂影视",
+        "type": 0,
+        "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
+        "playUrl": "https://vip.parwix.com:4433/player/?url=",
+        "categories": []
+        },
+        {
+        "key": "陈家影视",
+        "name": "陈家影视",
+        "type": 1,
+        "api": "https://www.cjt521.com/api.php/provide/vod/",
+        "playUrl": "https://jiexi.cjt521.com/?url=",
+        "categories": []
+        },
+        {
+        "key": "白熊影视",
+        "name": "白熊影视",
+        "type": 0,
+        "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
+        "playUrl": "",
+        "categories": []
+        },
+        {
+        "key": "飞鱼影视",
+        "name": "飞鱼影视",
+        "type": 0,
+        "api": "https://app.feiyu5.com/api.php/provide/vod/",
+        "playUrl": "",
+        "categories": []
+        },
+        {
+        "key": "293影院",
+        "name": "293影院",
+        "type": 0,
+        "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
+        "playUrl": "",
+        "categories": []
+        },
     {
       "key": "阿房影视",
       "name": "阿房影视",
