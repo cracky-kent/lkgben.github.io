@@ -2728,7 +2728,7 @@ xiqumd"
         {
             "name": "8090",
             "url": "https://www.8090g.cn/?url="
-        }
+        },
 {"name":"七彩","url":"https://www.xymav.com/?url="},
 {"name":"mw0","url":"http://jx.mw0.cc/?url="}
 {"name":"OK","url":"https://okjx.cc/?url="},
