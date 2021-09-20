@@ -106,221 +106,16 @@
             "categories": [                
             ]
         },
+
         {
-            "key": "影派资源",
-            "name": "影派资源",
-            "type": 0,
-            "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [              
-            ]
-        },
-        {
-            "key": "孤单影院",
-            "name": "孤单影院",
-            "type": 0,
-            "api": "http://www.gudanys.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "77电影",
-            "name": "77电影",
-            "type": 1,
-            "api": "https://www.77diany.com/api.php/provide/vod/",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "真不卡",
-            "name": "真不卡",
-            "type": 0,
-            "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "555影视",
-            "name": "555影视",
-            "type": 0,
-            "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "清欢资源",
-            "name": "清欢资源",
-            "type": 1,
-            "api": "https://www.qinghuanzy.cn/api.php/provide/vod/",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "飞鱼资源",
-            "name": "飞鱼资源",
-            "type": 0,
-            "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "影派资源",
-            "name": "影派资源",
-            "type": 0,
-            "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [              
-            ]
-        },
-        {
-            "key": "蓝果app",
-            "name": "蓝果app",
-            "type": 0,
-            "api": "http://www.languotv.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "畅视影视",
-            "name": "畅视影视",
-            "type": 1,
-            "api": "http://app.reboju.net/api.php/provide/vod/",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "零号资源",
-            "name": "零号资源",
-            "type": 0,
-            "api": "http://api.000zy.com/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "TV盒",
-            "name": "TV盒",
-            "type": 0,
-            "api": "http://cms.tvbox543.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [                
-            ]
-        },
-        {
-            "key": "播放吧",
-            "name": "播放吧",
-            "type": 0,
-            "api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": [              
-            ]
-        },
-        {
-            "key": "神马影院1",
-            "name": "神马影院1",
+            "key": "神马影院",
+            "name": "神马影院",
             "type": 0,
             "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "categories": [                
-            ]
-        }, 
-        {
-            "key": "神马影院2",
-            "name": "神马影院2",
-            "type": 0,
-            "api": "https://www.smdyy.cc/api.php/provide/vodtype/at/xml/",
             "playUrl": "",
             "searchable": 1,
             "filterable": 0,
             "categories": []
-        },
-        {
-	      "key": "afys_spider",
-	      "name": "阿房影视",
-	      "type": 2,
- 	      "api": "7gxke5P9eFZoVV",
- 	      "playUrl": "",
-  	      "searchable": 1,
-  	      "filterable": 1
-        },
-        {
-	      "key": "mgys_spider",
-	      "name": "暮光影视",
-	      "type": 2,
- 	      "api": "vnEF7qPNzi6C6C",
-	      "playUrl": "",
- 	      "quickSearch": 0
-        },
-        {
-	      "key": "ysgc_spider",
-	      "name": "影视工厂",
-	      "type": 2,
-	      "api": "XXjMEvL4jg66rQ",
-	      "playUrl": "",
-	      "quickSearch": 0
-        },
-        {
-	      "key": "auete_spider",
-	      "name": "Auete影视",
-	      "type": 2,
-	      "api": "eboTY5qAokEemZ",
-	      "playUrl": "",
-	      "quickSearch": 0,
-	      "filterable": 1
-        },
-        {
-	      "key": "adys_spider",
-	      "name": "爱迪影视",
-	      "type": 2,
-	      "api": "48YdXbyTkTe55r",
-	      "playUrl": "",
-	      "quickSearch": 0,
-	      "filterable": 1
-        },
-        {
-	      "key": "hgys_spider",
-	      "name": "HG影视",
-	      "type": 2,
-	      "api": "wkjskK5hA6Cxr7",
-	      "playUrl": "",
-	      "quickSearch": 0,
-	      "filterable": 1
-        },
-        {
-	      "key": "zjdr_spider",
-	      "name": "追剧达人",
-	      "type": 2,
-	      "api": "irB66BwzwhbL4r",
-	      "playUrl": "",
-	      "quickSearch": 0,
-	      "filterable": 1
-        },
-        {
-
-	      "key": "zjm_spider",
-	      "name": "追剧喵",
-	      "type": 2,
-	      "api": "KaxKyHhd9ErA9n",
-	      "playUrl": "",
-              "quickSearch": 0,
-	      "filterable": 1
-        },
-        {
-	      "key": "xysgc_spider",
-	      "name": "新影视工厂",
-	      "type": 2,
-	      "api": "Gy35wr8J2YUrtC",
-	      "playUrl": "",
-	      "quickSearch": 0,
-	      "filterable": 1
         },
         {
             "key": "神马影视库",
@@ -331,17 +126,6 @@
             "searchable": 1,
             "filterable": 0,
             "categories": []
-        },
-        {
-            "key": "极品资源",
-            "name": "极品资源",
-            "type": 0,
-            "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
         },
         {
             "key": "飘花",
@@ -366,282 +150,52 @@
             ]
         },
         {
-            "key": "1717云",
-            "name": "1717云",
-            "type": 0,
-            "api": "http://zy.itono.cn/inc/api.php",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
+           "key": "金球云",
+           "name": "金球云",
+           "type": 0,
+           "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+           "playUrl": "",
+           "categories": [
+           ]
         },
         {
-            "key": "无名",
-            "name": "无名",
-            "type": 0,
-            "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
+        "key": "爱看影视",
+        "name": "爱看影视",
+        "type": 0,
+        "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
+        "playUrl": "",
+        "categories": [
+        ]
         },
         {
-            "key": "泡泡影视",
-            "name": "泡泡影视",
-            "type": 0,
-            "api": "http://www.chinaboshan.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [               
-            ]
+          "key": "蓝果影视",
+          "name": "蓝果影视",
+          "type": 0,
+          "api": "http://www.languotv.com/api.php/provide/vod/at/xml/",
+          "playUrl": "",
+          "categories": [
+          ]
+       },
+        {
+        "key": "天堂影视",
+        "name": "天堂影视",
+        "type": 0,
+        "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
+        "playUrl": "https://vip.parwix.com:4433/player/?url=",
+        "categories": []
         },
         {
-            "key": "无名1",
-            "name": "无名1",
+            "key": "极品资源",
+            "name": "极品资源",
             "type": 0,
-            "api": "https://www.qilinzyz.com/api.php/provide/vod/at/xml",
+            "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "searchable": 1,
             "filterable": 0,
-            "categories": [                
+            "categories": [
+                
             ]
         },
-        {
-            "key": "106云",
-            "name": "106云",
-            "type": 0,
-            "api": "http://106.53.96.250/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
-        },
-        {
-            "key": "速云",
-            "name": "速云",
-            "type": 0,
-            "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
-        },
-        {
-            "key": "久久美剧",
-            "name": "久久美剧",
-            "type": 0,
-            "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
-        },
-        {
-            "key": "任我云",
-            "name": "任我云",
-            "type": 0,
-            "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
-        },
-        {
-            "key": "百度云",
-            "name": "百度云",
-            "type": 0,
-            "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
-        },
-        {
-            "key": "影院",
-            "name": "影院",
-            "type": 0,
-            "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
-        },
-        {
-            "key": "泰剧迷",
-            "name": "泰剧迷",
-            "type": 0,
-            "api": "https://www.taijumi.cc/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": [                
-            ]
-        },
-  	{
-	     "key": "金球云",
-	      "name": "金球云",
-	      "type": 0,
- 	     "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
- 	     "playUrl": "",
-	      "categories": [        
- 	     ]
- 	   },
-	{
-		"key": "爱看影视",
-		"name": "爱看影视",
-		"type": 0,
-		"api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
-		"playUrl": "https://vip.bljiex.com/?v=",
-		"categories": [ 
-		]
-	},
-{
-	"key": "蓝果影视",
-	"name": "蓝果影视",
-	"type": 0,
-	"api": "http://www.languotv.com/api.php/provide/vod/at/xml/",
-	"playUrl": "",
-	"categories": [
-	]
-},
-{
-"key": "天堂影视",
-"name": "天堂影视",
-"type": 0,
-"api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-"playUrl": "https://vip.parwix.com:4433/player/?url=",
-"categories": []
-},
-{
-"key": "陈家影视",
-"name": "陈家影视",
-"type": 1,
-"api": "https://www.cjt521.com/api.php/provide/vod/",
-"playUrl": "https://jiexi.cjt521.com/?url=",
-"categories": []
-},
-{
-"key": "白熊影视",
-"name": "白熊影视",
-"type": 0,
-"api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-"playUrl": "",
-"categories": []
-},
-{
-"key": "飞鱼影视",
-"name": "飞鱼影视",
-"type": 0,
-"api": "https://app.feiyu5.com/api.php/provide/vod/",
-"playUrl": "",
-"categories": []
-},
-{
-"key": "293影院",
-"name": "293影院",
-"type": 0,
-"api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
-"playUrl": "https://vip.bljiex.com/?v=",
-"categories": []
-},
-    {
-      "key": "阿房影视",
-      "name": "阿房影视",
-      "type": 2,
-      "api": "https://bwl87.com/type/vod/at/xml",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 1,
-      "categories": []
-    },
-    {
-      "key": "mgys_spider",
-      "name": "暮光影视",
-      "type": 2,
-      "api": "Scrawl3",
-      "playUrl": "",
-      "quickSearch": 0,
-      "categories": []
-    },
-    {
-      "key": "ysgc_spider",
-      "name": "影视工厂",
-      "type": 2,
-      "api": "Scrawl4",
-      "playUrl": "",
-      "quickSearch": 0,
-      "categories": []
-    },
-    {
-      "key": "auete_spider",
-      "name": "Auete影视",
-      "type": 2,
-      "api": "Scrawl5",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": []
-    },
-    {
-      "key": "adys_spider",
-      "name": "爱迪影视",
-      "type": 2,
-      "api": "Scrawl6",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": []
-    },
-    {
-      "key": "HG影视",
-      "name": "HG影视",
-      "type": 0,
-      "api": "http://hgyx.vip/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": []
-    },
-    {
-      "key": "zjdr_spider",
-      "name": "追剧达人",
-      "type": 2,
-      "api": "Scrawl8",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": []
-    },
-    {
-
-      "key": "zjm_spider",
-      "name": "追剧喵",
-      "type": 2,
-      "api": "Scrawl9",
-      "playUrl": "",
-       "quickSearch": 0,
-      "filterable": 1,
-      "categories": []
-    },
-    {
-      "key": "xysgc_spider",
-      "name": "新影视工厂",
-      "type": 2,
-      "api": "Scrawl10",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": []
-    },
         {
       "key": "人人影视",
       "name": "人人影视",
@@ -857,7 +411,8 @@
             "name": "605资源",
             "type": 0, "api": "http://www.605zy.co/inc/605m3u8.php",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -975,7 +530,7 @@ l",
             "type": 0,
             "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [               
+            "categories": [                
             ]
         },
         {
@@ -984,7 +539,8 @@ l",
             "type": 0,
             "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -995,7 +551,8 @@ l",
 
 "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1004,7 +561,8 @@ l",
             "type": 0,
             "api": "http://api.000zy.com/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1013,7 +571,8 @@ l",
             "type": 0,
             "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1022,7 +581,8 @@ l",
             "type": 0,
             "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1031,7 +591,8 @@ l",
             "type": 0,
             "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1040,7 +601,8 @@ l",
             "type": 0,
             "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1049,7 +611,8 @@ l",
             "type": 0,
             "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1058,7 +621,8 @@ l",
             "type": 0,
             "api": "https://www.meijuxq.com/inc/api.php",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1067,7 +631,8 @@ l",
             "type": 0,
             "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1078,7 +643,8 @@ l",
 
 "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1087,7 +653,8 @@ l",
             "type": 0,
             "api": "https://caiji.tiankongapi.com/inc/api.php",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1096,7 +663,8 @@ l",
             "type": 0,
             "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1105,7 +673,8 @@ l",
             "type": 0,
             "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1116,7 +685,8 @@ l",
 
 "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1125,7 +695,8 @@ l",
             "type": 0,
             "api": "https://www.hongniuzy.com/inc/api.php",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1134,7 +705,8 @@ l",
             "type": 0,
             "api": "https://v8.bdxzyapi.com/inc/api.php",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1147,7 +719,8 @@ l",
 
 l",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1156,7 +729,8 @@ l",
             "type": 0,
             "api": "http://www.88zyw.net/inc/api.php",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1167,7 +741,8 @@ l",
 
 "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1176,7 +751,8 @@ l",
             "type": 0,
             "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         },
         {
@@ -1185,7 +761,8 @@ l",
             "type": 0,
             "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
             "playUrl": "",
-            "categories": [                
+            "categories": [
+                
             ]
         }
     ],
@@ -2648,172 +2225,6 @@ xiqumd"
             "url": "https://www.qianyicp.com/?url="
         },
     {
-      "name": "618G",
-      "url": "http://playx.top/?url="
-    },
-    {
-      "name": "七哥",
-      "url": "http://jx.mmkv.cn/tv.php?url="
-    },
-    {
-      "name": "8090",
-      "url": "https://www.8090.la/8090/?url="
-    },
-    {
-      "name": "1717",
-      "url": "http://www.1717yun.com/jx/ty.php?url="
-    },
-    {
-      "name": "奇米",
-      "url": "http://qimihe.com/?url="
-    },
-    {
-      "name": "思云1",
-      "url": "https://jx.ap2p.cn/?url="
-    },
-    {
-      "name": "思云2",
-      "url": "https://api.ap2p.cn/?url="
-    },
-    {
-      "name": "最牛",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "免费1",
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "免费2",
-      "url": "https://api.ap2p.cn/?url="
-    },
-    {
-      "name": "免费3",
-      "url": "https://jiexi.msdv.cn/?url="
-    },
-    {
-      "name": "花椒",
-      "url": "https://m3u8.hjimg9.com/dp/?url="
-    },
-    {
-      "name": "0523",
-      "url": "https://go.yh0523.cn/y.cy?url="
-    },
-    {
-      "name": "116",
-      "url": "https://jx.116kan.com/?url="
-    },
-    {
-      "name": "x116",
-      "url": "http://vip.qji.me/?url="
-    },
-    {
-      "name": "1717云",
-      "url": "https://www.1717yun.com/jiexi/?url= "
-    },
-    {
-      "name": "1717s",
-      "url": "https://www.1717yun.com/jx/ty.php?url="
-    },
-    {
-      "name": "17kyun",
-      "url": "http://17kyun.com/api.php?url="
-    },
-    {
-      "name": "180",
-      "url": "https://jx.000180.top/jx/?url="
-    },
-    {
-      "name": "199",
-      "url": "http://dm.199cn.cn/vip/?url="
-    },
-    {
-      "name": "200",
-      "url": "https://vip.66parse.club/?url="
-    },
-    {
-      "name": "2ajx",
-      "url": "https://www.2ajx.com/vip.php?url="
-    },
-    {
-      "name": "365t",
-      "url": "http://vip.365tol.top/"
-    },
-    {
-      "name": "4080",
-      "url": "http://jx.4080jx.cc/?url="
-    },
-    {
-      "name": "470",
-      "url": "http://470.web3v.com/?0=s&1="
-    },
-    {
-      "name": "555",
-      "url": "https://b1.manduhu.com/player/?url＝"
-    },
-    {
-      "name": "60",
-      "url": "http://60jx.com/?url="
-    },
-    {
-      "name": "618",
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "name": "66",
-      "url": "http://api.3jx.top/vip/?url="
-    },
-    {
-      "name": "668",
-      "url": "https://jx.popo520.cn/jiexi/?url="
-    },
-    {
-      "name": "66s",
-      "url": "https://api.3jx.top/vip/?url="
-    },
-    {
-      "name": "720",
-      "url": "https://jx.xmlflv.com/?url="
-    },
-    {
-      "name": "758",
-      "url": "http://vv.tv758.com:547/player/?url="
-    },
-    {
-      "name": "8090",
-      "url": "https://www.8090.la/api/?url="
-    },
-    {
-      "name": "8090q",
-      "url": "https://www.8090g.cn/jiexi/?url= "
-    },
-    {
-      "name": "91",
-      "url": "https://www.91jxs.com/jiexi/?url="
-    },
-    {
-      "name": "暮光解析",
-      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
-    },
-    {
-      "name": "Parwix解析",
-      "url": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
-      "name": "Json.M3u8",
-      "url": "https://json.m3u8.tv:7788/json.php?url=",
-      "type": 1
-    },
-    {
-      "name": "Json.VodJX",
-      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
-      "type": 1
-    },
-    {
-      "name": "Ckplayer",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
     },
@@ -2870,7 +2281,7 @@ xiqumd"
             "url": "https://www.ssamao.com/jx/?url="
         },
         {
-            "name": "无极",
+            "name": "� 极",
             "url": "https://da.wujiys.com/?url="
         },
         {
@@ -2993,7 +2404,7 @@ xiqumd"
         {
             "name": "8090",
             "url": "https://www.8090g.cn/?url="
-        },
+        }
     ],
     "flags": [
         "youku",
@@ -3005,8 +2416,7 @@ xiqumd"
         "tudou",
         "pptv",
         "mgtv",
-        "wasu",
-        "bilibili"
+        "wasu"
     ],
     "ijk": [
         {
