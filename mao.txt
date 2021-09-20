@@ -2996,7 +2996,6 @@ xiqumd"
         },
 {"name":"七彩","url":"https://www.xymav.com/?url="},
 {"name":"mw0","url":"http://jx.mw0.cc/?url="},
-{"name":"OK","url":"https://okjx.cc/?url="},
 {"name":"H5","url":"http://60jx.com/?url="},
 {"name":"穿梭资源","url":"http://player.maguays.cc/?url="},
     ],
