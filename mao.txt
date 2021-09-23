@@ -157,26 +157,7 @@
             "filterable": 0,
             "categories": [                
             ]
-        },         {
-            "key": "",
-            "name": "",
-            "type": 0,
-            "api": "",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": []
-        },
-        {
-            "key": "",
-            "name": "",
-            "type": 0,
-            "api": "",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0,
-            "categories": []
-        },       
+        },                 
         {
             "key": "飘花",
             "name": "飘花",
