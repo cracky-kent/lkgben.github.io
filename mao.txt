@@ -106,10 +106,9 @@
             "categories": [                
             ]
         },
-
         {
-            "key": "神马影院",
-            "name": "神马影院",
+            "key": "神马影院1",
+            "name": "神马影院1",
             "type": 0,
             "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
@@ -117,6 +116,16 @@
             "filterable": 0,
             "categories": []
         },
+        {
+            "key": "神马影院2",
+            "name": "神马影院2",
+            "type": 0,
+            "api": "https://www.smdyy.cc/api.php/provide/vodtype/at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": []
+        },        
         {
             "key": "神马影视库",
             "name": "神马影视库",
@@ -127,6 +136,47 @@
             "filterable": 0,
             "categories": []
         },
+        {
+            "key": "百度云1",
+            "name": "百度云1",
+            "type": 0,
+            "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [                
+            ]
+        },
+        {
+            "key": "百度云2",
+            "name": "百度云2",
+            "type": 0,
+            "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": [                
+            ]
+        },         {
+            "key": "",
+            "name": "",
+            "type": 0,
+            "api": "",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": []
+        },
+        {
+            "key": "",
+            "name": "",
+            "type": 0,
+            "api": "",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 0,
+            "categories": []
+        },       
         {
             "key": "飘花",
             "name": "飘花",
