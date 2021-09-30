@@ -8,6 +8,7 @@
 	    "searchable": 1,
 	    "quickSearch": 0,
 	    "filterable": 1,
+	    "categories": []
 	    },
 	    {
 	  "key": "csp_EPang",
@@ -17,6 +18,7 @@
 	  "searchable": 1,
 	  "quickSearch": 0,
 	  "filterable": 1,
+	  "categories": []
 	},    
         {
 	    "key": "csp_Enlienli",
@@ -26,6 +28,7 @@
 	    "searchable": 1,
 	    "quickSearch": 0,
 	    "filterable": 1,
+	    "categories": []
          },
 	{
 		  "key": "csp_Auete",
@@ -35,6 +38,7 @@
 	  "searchable": 1,
 	  "quickSearch": 0,
 	  "filterable": 1,
+	  "categories": []
 	},
 	{
             "key": "默认资源",
