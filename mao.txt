@@ -7,8 +7,7 @@
 	    "api": "csp_Aidi",
 	    "searchable": 1,
 	    "quickSearch": 0,
-	    "filterable": 1,
-	    "categories": []
+	    "filterable": 1
 	    },
 	    {
 	  "key": "csp_EPang",
@@ -17,8 +16,7 @@
 	  "api": "csp_EPang",
 	  "searchable": 1,
 	  "quickSearch": 0,
-	  "filterable": 1,
-	  "categories": []
+	  "filterable": 1
 	},    
         {
 	    "key": "csp_Enlienli",
@@ -27,9 +25,8 @@
 	    "api": "csp_Enlienli",
 	    "searchable": 1,
 	    "quickSearch": 0,
-	    "filterable": 1,
-	    "categories": []
-         },
+	    "filterable": 1
+	},
 	{
 		  "key": "csp_Auete",
 	  "name": "Auete(爬虫)",
@@ -37,8 +34,7 @@
  	 "api": "csp_Auete",
 	  "searchable": 1,
 	  "quickSearch": 0,
-	  "filterable": 1,
-	  "categories": []
+	  "filterable": 1
 	},
 	{
             "key": "默认资源",
