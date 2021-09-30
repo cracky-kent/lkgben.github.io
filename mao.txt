@@ -1,10 +1,48 @@
 {
     "sites": [
+            {
+	    "key": "csp_Aidi",
+	    "name": "爱迪(爬虫)",
+	    "type": 3,
+	    "api": "csp_Aidi",
+	    "searchable": 1,
+	    "quickSearch": 0,
+	    "filterable": 1,
+	    },
+	    {
+	  "key": "csp_EPang",
+	  "name": "阿房影视(爬虫)",
+	  "type": 3,
+	  "api": "csp_EPang",
+	  "searchable": 1,
+	  "quickSearch": 0,
+	  "filterable": 1,
+	},    
         {
+	    "key": "csp_Enlienli",
+	    "name": "嗯哩嗯哩(爬虫)",
+	    "type": 3,
+	    "api": "csp_Enlienli",
+	    "searchable": 1,
+	    "quickSearch": 0,
+	    "filterable": 1,
+         },
+	{
+		  "key": "csp_Auete",
+	  "name": "Auete(爬虫)",
+	  "type": 3,
+ 	 "api": "csp_Auete",
+	  "searchable": 1,
+	  "quickSearch": 0,
+	  "filterable": 1,
+	},
+	{
             "key": "默认资源",
             "name": "默认资源",
             "type": 0,
-            "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+            "api": 
+
+"https://www.dianyingn.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": [                
             ]
@@ -47,7 +85,9 @@
             "key": "灵芝源",
             "name": "灵芝源",
             "type": 0,
-            "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
+            "api": 
+
+"https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
             "playUrl": "",
             "categories": [                
             ]
@@ -120,7 +160,9 @@
             "key": "神马影院2",
             "name": "神马影院2",
             "type": 0,
-            "api": "https://www.smdyy.cc/api.php/provide/vodtype/at/xml/",
+            "api": 
+
+"https://www.smdyy.cc/api.php/provide/vodtype/at/xml/",
             "playUrl": "",
             "searchable": 1,
             "filterable": 0,
@@ -173,7 +215,9 @@
             "key": "591追剧影视",
             "name": "591追剧影视",
             "type": 0,
-            "api": "https://www.591zhuiju.com/api.php/provide/vod/at/xml",
+            "api": 
+
+"https://www.591zhuiju.com/api.php/provide/vod/at/xml",
             "playUrl": "",
             "searchable": 1,
             "filterable": 0,
@@ -450,7 +494,11 @@
             "key": "淘片直解",
             "name": "淘片直解",
             "type": 0,
-            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
+            "api": 
+
+"https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xm
+
+l",
             "playUrl": "",
             "categories": [
             ]
@@ -477,7 +525,9 @@
             "key": "饭团资源",
             "name": "饭团资源",
             "type": 0,
-            "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/\n",
+            "api": 
+
+"http://fantuan.wkfile.com/api.php/provide/vod/at/xml/\n",
             "playUrl": "",
             "categories": [
             ]
@@ -504,7 +554,9 @@
             "key": "1905资源",
             "name": "1905资源",
             "type": 0,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
+            "api": 
+
+"http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
             "playUrl": "http://api.u1o.net/?url=",
             "categories": [
             ]
@@ -513,7 +565,9 @@
              "key": "M3U8.TV",
              "name": "M3U8.TV",
              "type": 0,
-             "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
+             "api": 
+
+"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
              "playUrl": "",
             "categories": [
             ]
@@ -567,7 +621,9 @@
             "key": "8090资源",
             "name": "8090资源",
             "type": 0,
-            "api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+            
+
+"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": [                
             ]
@@ -651,7 +707,9 @@
             "key": "安逸影院",
             "name": "安逸影院",
             "type": 0,
-            "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+            "api": 
+
+"http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
             "playUrl": "",
             "categories": [                
             ]
@@ -688,7 +746,9 @@
             "key": "蘑菇资源",
             "name": "蘑菇资源",
             "type": 0,
-            "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+            "api": 
+
+"http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": [                
             ]
@@ -697,8 +757,10 @@
             "key": "红牛资源",
             "name": "红牛资源",
             "type": 0,
-            "api": "https://www.hongniuzy.com/inc/api.php",
-            "playUrl": "",
+            "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
+            "playUrl": "https://www.tutukiki.com/m3u8/?url=",
+	    "searchable": 1,
+            "filterable": 0,
             "categories": [                
             ]
         },
@@ -715,7 +777,11 @@
             "key": "淘片资源",
             "name": "淘片资源",
             "type": 0,
-            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
+            "api": 
+
+"https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xm
+
+l",
             "playUrl": "",
             "categories": [                
             ]
@@ -733,7 +799,9 @@
             "key": "电影牛",
             "name": "电影牛",
             "type": 0,
-            "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+            "api": 
+
+"https://www.dianyingn.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": [                
             ]
@@ -2202,7 +2270,8 @@ xiqumd"
             ]
         }
     ],
-    "parses": [
+    "spider": "https://www.sharerw.com/custom_spider.jar",
+       "parses": [
         {
             "name": "默认解析",
             "url": "https://1.api.80tvs.cn/?url="
@@ -2215,6 +2284,28 @@ xiqumd"
             "name": "千亿超清",
             "url": "https://www.qianyicp.com/?url="
         },
+    {
+      "name": "暮光解析",
+      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+    },
+    {
+      "name": "Parwix解析",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "Json.M3u8",
+      "url": "https://json.m3u8.tv:7788/json.php?url=",
+      "type": 1
+    },
+    {
+      "name": "Json.VodJX",
+      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
+      "type": 1
+    },
+    {
+      "name": "Ckplayer",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
     {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
