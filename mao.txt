@@ -215,9 +215,7 @@
             "key": "591追剧影视",
             "name": "591追剧影视",
             "type": 0,
-            "api": 
-
-"https://www.591zhuiju.com/api.php/provide/vod/at/xml",
+            "api": "https://www.591zhuiju.com/api.php/provide/vod/at/xml",
             "playUrl": "",
             "searchable": 1,
             "filterable": 0,
@@ -494,11 +492,7 @@
             "key": "淘片直解",
             "name": "淘片直解",
             "type": 0,
-            "api": 
-
-"https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xm
-
-l",
+            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
             "playUrl": "",
             "categories": [
             ]
@@ -565,9 +559,7 @@ l",
              "key": "M3U8.TV",
              "name": "M3U8.TV",
              "type": 0,
-             "api": 
-
-"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
+             "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
              "playUrl": "",
             "categories": [
             ]
@@ -620,10 +612,8 @@ l",
         {
             "key": "8090资源",
             "name": "8090资源",
-            "type": 0,
-            
-
-"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+            "type": 0,          
+	    "api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": [                
             ]
@@ -707,9 +697,7 @@ l",
             "key": "安逸影院",
             "name": "安逸影院",
             "type": 0,
-            "api": 
-
-"http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+            "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
             "playUrl": "",
             "categories": [                
             ]
@@ -746,9 +734,7 @@ l",
             "key": "蘑菇资源",
             "name": "蘑菇资源",
             "type": 0,
-            "api": 
-
-"http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+            "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": [                
             ]
@@ -777,11 +763,7 @@ l",
             "key": "淘片资源",
             "name": "淘片资源",
             "type": 0,
-            "api": 
-
-"https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xm
-
-l",
+            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
             "playUrl": "",
             "categories": [                
             ]
@@ -799,9 +781,7 @@ l",
             "key": "电影牛",
             "name": "电影牛",
             "type": 0,
-            "api": 
-
-"https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+            "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": [                
             ]
@@ -834,71 +814,31 @@ l",
                     "urls": [
                         
 
-"http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.
-
-m3u8",
-                        "HD,http://117.169.124.37:6610/ysten-
-
-businessmobile/live/fhchinese/1.m3u8",
-                        
-
-"http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.
-
-m3u8",
-                        
-
+"http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
+"HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8",                       
+"http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8",                   
 "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
                     ]
                 },
                 {
                     "name": "凤凰资讯",
-                    "urls": [
-                        
-
-"http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index
-
-.m3u8",
-                        
-
+                    "urls": [                       
+"http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",                      
 "HD,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8",
-                        "http://117.169.124.37:6610/ysten-
-
-businessmobile/live/fhzixun/1.m3u8"
+"http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
                     ]
                 },
                 {
                     "name": "CCTV-1",
-                    "urls": [
-                       
-
-"http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8",
-                        
-
-"http://111.40.196.9/PLTV/88888888/224/3221225511/index.m3u8",        
-                        
-
-"http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/32212265
-
-64/1.m3u8",
-                        
-
-"http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
-                        
-
-"http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8",
-                        
-
-"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/32212262
-
-26/1.m3u8",
-                        
-
-"http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
-                        
-
-"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226
-
-338/1.m3u8"
+                    "urls": [                     
+"http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8",                      
+"http://111.40.196.9/PLTV/88888888/224/3221225511/index.m3u8",                                
+"http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8",                       
+"http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",                       
+"http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8",                   
+"http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8",                        
+"http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",                      
+"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226338/1.m3u8"
                     ]
                 },
                 {
@@ -2270,7 +2210,7 @@ xiqumd"
             ]
         }
     ],
-    "spider": "https://www.sharerw.com/custom_spider.jar",
+    "spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
        "parses": [
         {
             "name": "默认解析",
